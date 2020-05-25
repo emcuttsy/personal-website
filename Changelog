@@ -1,0 +1,13 @@
+Changes to the LoveIt Theme
+
+In _custom.scss file:
+  1. Increased width of .home_avatar .img from 8 to 12rem
+  2. Increased padding of .home_avatar from .25rem to 1rem
+  3. Changed font family of .header-title to Andale Mono.
+  4. Added .25rem right margin to .header-title-pre to space icon from title
+  
+In _override.scss file:
+
+Colors:
+
+

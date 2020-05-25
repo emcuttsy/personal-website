@@ -3,7 +3,7 @@
         <title>Elise Cutts</title>
         <link>/de/</link>
         <description>Elise Cutts&#39; Personal Wesbite</description>
-        <generator>Hugo -- gohugo.io</generator>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

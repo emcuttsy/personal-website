@@ -1,23 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Markdown - Category - Elise Cutts</title>
-        <link>/categories/markdown/</link>
+        <link>https://example.com/categories/markdown/</link>
         <description>Markdown - Category - Elise Cutts</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
+            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Markdown Syntax</title>
-    <link>/basic-markdown-syntax/</link>
+    <link>https://example.com/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/basic-markdown-syntax/</guid>
+    <guid>https://example.com/basic-markdown-syntax/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/basic-markdown-syntax/featured-image.png" referrerpolicy="no-referrer">
             </div><p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item><item>
     <title>Emoji Support</title>
-    <link>/emoji-support/</link>
+    <link>https://example.com/emoji-support/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>/emoji-support/</guid>
+    <guid>https://example.com/emoji-support/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/emoji-support/featured-image.jpg" referrerpolicy="no-referrer">
             </div><p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>

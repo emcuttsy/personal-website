@@ -2,3 +2,31 @@
 // Custom style
 // 自定义样式
 // ==============================
+
+// Small changes to the size and padding of the home avatar.
+.home {
+  .home-profile {
+
+    .home-avatar {
+      padding: 1rem;
+
+      img {
+        display: inline-block;
+        width: 12rem;
+        height: auto;
+        margin: 0 auto;
+
+      }
+    }
+  }
+}
+
+// Changed font family of header title to Andale Mono.
+.header-title {
+  font-family: Andale Mono, $global-font-family;
+  margin-left: .5rem;
+}
+
+.header-title-pre{
+  margin-right: .25rem;
+}
