@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Markdown - Balise - LoveIt</title>
+        <title>Markdown - Balise - Elise Cutts</title>
         <link>/fr/tags/markdown/</link>
-        <description>Markdown - Balise - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</lastBuildDate><atom:link href="/fr/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+        <description>Markdown - Balise - Elise Cutts</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</lastBuildDate><atom:link href="/fr/tags/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Thème Documentation - Contenu</title>
     <link>/fr/theme-documentation-content/</link>
     <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>

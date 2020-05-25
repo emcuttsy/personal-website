@@ -1,25 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-03-06T21:29:01+08:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/zh-cn/sitemap.xml</loc>
-		
-	   	<lastmod>2020-03-06T21:40:32+08:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2020-03-06T21:40:32+08:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>/theme-documentation-basics/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/theme-documentation-content/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/theme-documentation-extended-shortcodes/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/basic-markdown-syntax/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/emoji-support/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/post/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/markdown/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/shortcodes/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/html/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/markdown/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/emoji/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/about/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/post/2015-07-23-r-rmarkdown/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/plot/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/r/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/r-markdown/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/regression/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/content/_index.fr/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/documentation/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/installation/_index.zh-cn/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/configuration/_index.zh-cn/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

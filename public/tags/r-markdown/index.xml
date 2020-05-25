@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>R Markdown - Tag - LoveIt</title>
+        <title>R Markdown - Tag - Elise Cutts</title>
         <link>/tags/r-markdown/</link>
-        <description>R Markdown - Tag - LoveIt</description>
+        <description>R Markdown - Tag - Elise Cutts</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/tags/r-markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Hello R Markdown</title>
     <link>/post/2015-07-23-r-rmarkdown/</link>

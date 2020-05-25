@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/zh-cn/theme-documentation-basics/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/theme-documentation-basics/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/theme-documentation-basics/"
@@ -15,7 +15,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/theme-documentation-basics/"
                     /></url><url>
-            <loc>/zh-cn/theme-documentation-content/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/theme-documentation-content/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/theme-documentation-content/"
@@ -28,7 +28,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/theme-documentation-content/"
                     /></url><url>
-            <loc>/zh-cn/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-03-04T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/theme-documentation-built-in-shortcodes/"
@@ -41,7 +41,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/theme-documentation-built-in-shortcodes/"
                     /></url><url>
-            <loc>/zh-cn/theme-documentation-extended-shortcodes/</loc><lastmod>2020-03-03T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/theme-documentation-extended-shortcodes/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/theme-documentation-extended-shortcodes/"
@@ -54,7 +54,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/theme-documentation-extended-shortcodes/"
                     /></url><url>
-            <loc>/zh-cn/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/basic-markdown-syntax/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/basic-markdown-syntax/"
@@ -67,7 +67,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/basic-markdown-syntax/"
                     /></url><url>
-            <loc>/zh-cn/emoji-support/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/emoji-support/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/emoji-support/"
@@ -80,7 +80,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/emoji-support/"
                     /></url><url>
-            <loc>/zh-cn/categories/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/categories/"
@@ -93,7 +93,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/categories/"
                     /></url><url>
-            <loc>/zh-cn/posts/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/posts/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="/fr/posts/"
@@ -102,7 +102,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/posts/"
                     /></url><url>
-            <loc>/zh-cn/tags/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/"
@@ -115,46 +115,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/tags/"
                     /></url><url>
-            <loc>/zh-cn/tags/installation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/tags/installation/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="/fr/tags/installation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/zh-cn/tags/installation/"
-                    /></url><url>
-            <loc>/zh-cn/categories/documentation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/categories/documentation/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="/fr/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/zh-cn/categories/documentation/"
-                    /></url><url>
-            <loc>/zh-cn/tags/configuration/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/tags/configuration/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="/fr/tags/configuration/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/zh-cn/tags/configuration/"
-                    /></url><url>
-            <loc>/zh-cn/tags/markdown/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/markdown/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/markdown/"
@@ -167,20 +128,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/tags/markdown/"
                     /></url><url>
-            <loc>/zh-cn/tags/content/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/tags/content/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="/fr/tags/content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/zh-cn/tags/content/"
-                    /></url><url>
-            <loc>/zh-cn/tags/shortcodes/</loc><lastmod>2020-03-04T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/shortcodes/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/shortcodes/"
@@ -193,7 +141,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/tags/shortcodes/"
                     /></url><url>
-            <loc>/zh-cn/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/html/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/html/"
@@ -206,7 +154,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/tags/html/"
                     /></url><url>
-            <loc>/zh-cn/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/categories/markdown/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/categories/markdown/"
@@ -219,7 +167,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/categories/markdown/"
                     /></url><url>
-            <loc>/zh-cn/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/tags/emoji/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/tags/emoji/"
@@ -232,7 +180,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/tags/emoji/"
                     /></url><url>
-            <loc>/zh-cn/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/"
@@ -245,7 +193,7 @@
                     hreflang="zh-cn"
                     href="/zh-cn/"
                     /></url><url>
-            <loc>/zh-cn/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>/zh-cn/about/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="/about/"
@@ -257,4 +205,56 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="/zh-cn/about/"
+                    /></url><url>
+            <loc>/zh-cn/tags/content/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/tags/content/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/tags/content/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/tags/content/"
+                    /></url><url>
+            <loc>/zh-cn/tags/installation/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/tags/installation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/tags/installation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/tags/installation/"
+                    /></url><url>
+            <loc>/zh-cn/categories/documentation/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/categories/documentation/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/categories/documentation/"
+                    /></url><url>
+            <loc>/zh-cn/tags/configuration/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/tags/configuration/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="/fr/tags/configuration/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/zh-cn/tags/configuration/"
                     /></url></urlset>
