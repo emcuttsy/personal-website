@@ -119,9 +119,10 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.png"
           # title shown in home page (HTML format is supported)
-          title = ""
+          title = "Hi there, I'm Elise.  <br><small>I'm a geobiology grad student at MIT."
           # subtitle shown in home page
-          subtitle = "Hi, I'm Elise."
+          subtitle = "I write about things like <b>science</b>, life at <b>grad school</b>, and my ever-expanding <b>German</b> Anki flashcard deck. I'm also documenting my real-time progress as I start from zero learning to use <b>Python</b> and <b>R</b> so that other tech-uninitiates can see what it's really like to get started."
+  
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -135,15 +136,15 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "xxxx"
-        Linkedin = ""
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
+        GitHub = ""
+        Linkedin = "https://www.linkedin.com/in/elisecutts/"
+        Twitter = ""
+        Instagram = ""
+        Facebook = ""
+        Telegram = ""
         Medium = ""
         Gitlab = ""
-        Youtubelegacy = "xxxx"
+        Youtubelegacy = ""
         Youtubecustom = ""
         Youtubechannel = ""
         Tumblr = ""
@@ -196,11 +197,8 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "xxxx@xxxx.com"
+        Email = "me@elisecutts.com"
         RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
           
 
 #To add another language, copy from above and change the language code
@@ -467,7 +465,7 @@ enableEmoji = true
   # TypeIt config
   [params.typeit]
     # typing speed between each step (measured in milliseconds)
-    speed = 150
+    speed = 100
     # blinking speed of the cursor (measured in milliseconds)
     cursorSpeed = 2000
     # character used for the cursor (HTML format is supported)
