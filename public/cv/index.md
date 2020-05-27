@@ -1,6 +1,8 @@
 # Curriculum Vitae
 
 
+<!--more-->
+
 ## Education
 
 **2020--Present. Massachussetts Institute of Technology (MIT)** <br>
@@ -53,3 +55,4 @@ yup here is some other text
 ## Science Communication
 
 ### Conferences and Talls
+

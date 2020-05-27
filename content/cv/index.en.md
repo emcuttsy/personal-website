@@ -1,18 +1,29 @@
 ---
-title: "Curriculum Vitae"
-subtitle: "Elise Cutts"
-date: 2019-08-02T11:04:49+08:00
-draft: false
-
-lightgallery: true
-
+title: Curriculum Vitae
+author: Elise Cutts
+date: '2020-05-27'
+slug: cv
+categories: []
+tags: []
+subtitle: 'Elise Cutts'
+lastmod: '2020-05-27T16:34:14-07:00'
+authorLink: ''
+description: ''
+hiddenFromHomePage: yes
+hiddenFromSearch: no
+featuredImage: ''
+featuredImagePreview: ''
+toc:
+  enable: yes
 math:
-  enable: true
-  
+  enable: no
+lightgallery: no
+license: ''
 comment:
   enable: false
-  
 ---
+
+<!--more-->
 
 ## Education
 

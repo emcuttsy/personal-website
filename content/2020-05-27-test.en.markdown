@@ -1,0 +1,24 @@
+---
+title: test
+author: Elise Cutts
+date: '2020-05-27'
+slug: test
+categories: []
+tags: []
+subtitle: ''
+lastmod: '2020-05-27T16:34:14-07:00'
+authorLink: ''
+description: ''
+hiddenFromHomePage: no
+hiddenFromSearch: no
+featuredImage: ''
+featuredImagePreview: ''
+toc:
+  enable: yes
+math:
+  enable: no
+lightgallery: no
+license: ''
+---
+
+<!--more-->
