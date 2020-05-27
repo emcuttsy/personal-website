@@ -23,6 +23,10 @@ comment:
   enable: false
 ---
 
+.post-meta{
+  display:none;
+}
+
 <!--more-->
 
 ## Education

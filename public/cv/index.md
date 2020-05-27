@@ -1,6 +1,10 @@
 # Curriculum Vitae
 
 
+.post-meta{
+  display:none;
+}
+
 <!--more-->
 
 ## Education
