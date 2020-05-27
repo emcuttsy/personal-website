@@ -18,26 +18,49 @@ comment:
 
 ## Education
 
-**Massachussetts Institute of Technology (MIT), 2020--** <br>
+**2020--Present. Massachussetts Institute of Technology (MIT)** <br>
 Ph.D. Geology, Geochemistry, and Geobiology [anticipated 2025]<br>
 Advised by [Tanja Bosak](http://bosaklab.scripts.mit.edu/)
 
-**California Institute of Technology (Caltech), 2015--2019** <br>
+**2015--2019. California Institute of Technology (Caltech)** <br>
 B.S. Geobiology
 
-## Awards and Fellowships
+## Experience
 
-**Graduate Research Fellowship, 2020**.  National Science Foundation
+### Research
 
-**Ida M. Green Fellowship, 2020**.  MIT
+**2019--2020. University of Southern Denmark** <br>
+Guest Researcher (Fulbright). Advised by Don Canfield
 
-**Fulbright Grant (Denmark), 2019**. Fulbright U.S. Student Program
+### Teaching
 
-**James J. Morgan Summer Undergraduate Research Fellowship, 2018**. Caltech
+### Science Communication
 
-**Mary Vodopia Summer Undergraduate Research Fellowship, 2017**. Caltech
 
-**Summer Undergraduate Research Fellowship, 2016**. Caltech
+## Honors
+
+### Fellowships and Grants
+
+2020\. Graduate Research Fellowship,  National Science Foundation
+
+2020\. Ida M. Green Fellowship,  MIT
+
+2019\. Fulbright Grant (Denmark), Fulbright U.S. Student Program
+
+2018\. James J. Morgan Summer Undergraduate Research Fellowship, Caltech
+
+2017\. Mary Vodopia Summer Undergraduate Research Fellowship, Caltech
+
+2016\. Summer Undergraduate Research Fellowship, Caltech
+
+### Awards and Prizes
+
+2018\. Fritz B. Burns Prize in Geology, Caltech
+
+2017\. Howard Reynolds Memorial Prize in Geology, Caltech
+
+2015\. Bonnie Cashin Prize for Imaginative Thinking, Caltech
+
 
 ## Academic Publications
 yup here is some other text
