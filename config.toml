@@ -88,9 +88,9 @@ enableEmoji = true
         tileColor = "#da532c"
       # Search config
       [languages.en.params.search]
-        enable = true
+        enable = false
         # type of search engine ("lunr", "algolia")
-        type = "algolia"
+        type = "lunr"
         # max index length of the chunked content
         contentLength = 4000
         # placeholder of the search bar
@@ -123,7 +123,7 @@ enableEmoji = true
           titlesub = "I'm a geobiology grad student at MIT."
           
           # subtitle shown in home page
-          subtitle = "I write about things like <b>science</b>, life at <b>grad school</b>, and my ever-expanding <b>German</b> Anki flashcard deck. I'm also documenting my progres (and my many, many mistakes) as I start from zero learning to use <b>Python</b> and <b>R</b> for <b>data analysis</b> so that other newbies can see what it's really like to get started."
+          subtitle = "I write about things like <b>science</b>, life at <b>grad school</b>, and my ever-expanding <b>German</b> Anki flashcard deck. I'm also documenting my progress (and my many, many mistakes) as I start from zero learning to use <b>Python</b> and <b>R</b> for <b>data analysis</b> so that other newbies can see what it's really like to get started."
   
           # whether to use typeit animation for subtitle
           typeit = true

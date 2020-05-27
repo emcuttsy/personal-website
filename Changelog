@@ -5,8 +5,12 @@ In _custom.scss file:
   2. Increased padding of .home_avatar from .25rem to 1rem
   3. Changed font family of .header-title to Andale Mono.
   4. Added .25rem right margin to .header-title-pre to space icon from title
+  5. Added titlesub class AND made adjustments to profile.html to add titlesub title.
   
 In _override.scss file:
+
+In profile.html
+  1. Addded titlesub field to build by copying info from subtitle.
 
 Colors:
 
