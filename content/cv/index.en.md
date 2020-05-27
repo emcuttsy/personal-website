@@ -1,12 +1,10 @@
 ---
 title: "Curriculum Vitae"
+subtitle: "Elise Cutts"
 date: 2019-08-02T11:04:49+08:00
 draft: false
 
 lightgallery: true
-
-toc:
-  enable: true
 
 math:
   enable: true
