@@ -15,8 +15,11 @@ featuredImage: "/images/theme-documentation-basics/featured-image.jpg"
 
 lightgallery: true
 
+comment:
+  enable: false
+
 toc:
-  auto: false
+  enable: true
 ---
 
 Discover what the Hugo - **LoveIt** theme is all about and the core-concepts behind it.

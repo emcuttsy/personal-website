@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on Elise Cutts</title>
+    <link>/cv/</link>
+    <description>Recent content in Cvs on Elise Cutts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
+    <webMaster>me@elisecutts.com (Elise Cutts)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/curriculum-vitae/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <author>me@elisecutts.com (Elise Cutts)</author>
+      <guid>/cv/curriculum-vitae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/curriculum-vitae/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <author>me@elisecutts.com (Elise Cutts)</author>
+      <guid>/cv/curriculum-vitae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

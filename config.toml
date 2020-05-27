@@ -67,6 +67,14 @@ enableEmoji = true
         url = "/about/"
         title = ""
         weight = 4
+      [[languages.en.menu.main]]
+        identifier = "cv"
+        pre = ""
+        post = ""
+        name = "CV"
+        url = "/cv/"
+        title = ""
+        weight = 5
     [languages.en.params]
       # site description
       description = "Elise Cutts' Personal Wesbite"

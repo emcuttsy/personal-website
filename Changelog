@@ -12,6 +12,9 @@ In _override.scss file:
 In profile.html
   1. Addded titlesub field to build by copying info from subtitle.
 
+In default/single.html 
+  1. Added TOC code copied from post/single.html in order to enable tables of content.
+
 Colors:
 
 
