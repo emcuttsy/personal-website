@@ -3,6 +3,8 @@
 
 <!--more-->
 
+Download my CV [Word] [PDF] 
+
 ## Education
 
 **2020--Pres. Massachussetts Institute of Technology (MIT)** <br>
@@ -13,9 +15,9 @@ Ph.D. Geobiology [anticipated 2025], Adv. [Tanja Bosak](http://bosaklab.scripts.
 B.S. Geobiology
 
 
-## Honors
+## Fellowships, Grants, & Honors
 
-### Grants & Fellowships
+### Fellowships & Grants
 
 **2020--2025\. Graduate Research Fellowship**, National Science Foundation <br>
 MIT, Dept. of Earth, Atmospheric and Planetary Sciences
@@ -49,7 +51,7 @@ J. Miura, B. Ehlmann, R. Greenberger, **E. Cutts (2020)** *Microimaging Infrared
 
 **E. Cutts**, B. Ehlmann, R. Greenberger, J. Beckett, E. Stolper (2018) [*Visible and Shortwave Infrared Spectroscopy of Martian Meteorites.*](https://www.hou.usra.edu/meetings/lpsc2018/pdf/2749.pdf) LPSC XLIV, Abstract # 2749
 
-## Professional Experience
+## Experience
 
 ### Research
 
@@ -82,14 +84,26 @@ Teaching Assistant <br>
 
 ### Writing & Communications
 
-**8.2018--6.2019 Caltech Office of Strategic Communications** <br>
+**8.2018--6.2019.Caltech Office of Strategic Communications** <br>
 Science Writing Intern
 
-**6.2016--6.2019 *The Big T* (Caltech Yearbook)** <br>
+**6.2016--6.2019. *The Big T* (Caltech Yearbook)** <br>
 Editor-In-Chief
 
-**9.2018--6.2019 *The Caltech Letters*** <br>
+**9.2018--6.2019. *The Caltech Letters*** <br>
 Graphics Editor
+
+
+## Professional Training
+
+**2020\. [Data Analysis for the Life Sciences](https://www.edx.org/professional-certificate/harvardx-data-analysis-for-life-sciences)** <br>
+Professional Certificate [in progress], HarvardX
+* Statistics and R (HarvardX  PH525.1x)
+* Introduction to Linear Models and Matrix Algebra (HarvardX PH525.2x) [in prog.]
+
+**2020\. [Biophotonics](http://www.dambic.dk/index.php?page=BMB207)** <br>
+5 [ETCS](European_Credit_Transfer_and_Accumulation_System) PhD course (audited), University of Southern Denmark
+
 
 ## Science Communication & Outreach
 
@@ -123,13 +137,40 @@ Co-Host
 
 2.2018. Caltech Stargazing Lecture: The Science of Star Trek Q&A Panel
 
-## Professional Training
+## Other
 
-**2020\. [Data Analysis for the Life Sciences](https://www.edx.org/professional-certificate/harvardx-data-analysis-for-life-sciences)** <br>
-Professional Certificate [in progress], HarvardX
-* Statistics and R (HarvardX  PH525.1x)
-* Introduction to Linear Models and Matrix Algebra (HarvardX PH525.2x) [in prog.]
+### Languages
 
-**2020\. [Biophotonics](http://www.dambic.dk/index.php?page=BMB207)** <br>
-5 [ETCS](European_Credit_Transfer_and_Accumulation_System) PhD course (audited), University of Southern Denmark
+**English (US).** Native speaker
+
+**German.** Self-taught. B2 reading, A2 speaking and writing
+
+### Additional Published Writing
+
+2019\. The Big T Volume 98 *Make It So* (Editor-in-Chief) <br>
+2019\. “Letter from the Editor,” The Big T Volume 96 *Make It So* <br>
+2019\. “Statistically Significant,” The Big T Volume 96 *Make It So* <br>
+2018\. “Caltech Scholars Charged to ‘Sculpt’ Their Own Experience” *Caltech News* <br>
+2018\. “Fox Stanton Track Reopens on South Field,” *Caltech News* <br>
+2018\. “Caltech Awards Millikan Medal to Ben Rosen,” *Caltech News* <br>
+2018\. The Big T Volume 97 *Discovery* (Editor-in-Chief) <br>
+2018\. “Letter from the Editor,” The Big T Volume 97 *Discovery* <br>
+2018\. “Good Trouble,” The Big T Volume 97 *Discovery* <br>
+2018\. “Today Plus One,” The Big T Volume 97 *Discovery* <br>
+2018\. “Live Long and Prosper,” The Big T Volume 97 *Discovery* <br>
+2018\. “Lights Calculators Action,” The Big T Volume 97 *Discovery* <br>
+2018\. “Orders of Magnitude,” The Big T Volume 97 *Discovery* <br>
+2018\. “Sunfish,” The Big T Volume 97 *Discovery* <br>
+2018\. “Ce n’est pas en Page,” The Big T Volume 97 *Discovery* <br>
+2018\. “Spring Force,” The Big T Volume 97 *Discovery* <br>
+2018\. “Imagining a Living Universe,” *Caltech Letters* <br>
+2017\. The Big T Volume 96 *Beyond* (Editor-in-Chief) <br>
+2017\. “Letter from the Editor,” The Big T Volume 96 *Beyond* <br>
+2017\. “At Last!,” The Big T Volume 96 *Beyond* <br>
+2017\. “Yeah Beavers!,” The Big T Volume 96 *Beyond* <br>
+2017\. “If You Build It, They Will Come,” The Big T Volume 96 *Beyond* <br>
+2017\. “In Comes Company,” The Big T Volume 96 *Beyond* <br>
+2017\. “Firewall,” The Big T Volume 96 *Beyond* <br>
+2017\. “Music Theory,” The Big T Volume 96 *Beyond* <br>
+2016\. “Is Boldly Go! Bold Enough?,” *The California Tech*
 
