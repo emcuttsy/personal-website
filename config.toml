@@ -77,7 +77,7 @@ enableEmoji = true
         # optional site title override for the app when added to an iOS home screen or Android launcher
         title = "Elise Cutts"
         # whether to omit favicon resource links
-        noFavicon = true
+        noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
         svgFavicon = ""
         # Android browser theme color
