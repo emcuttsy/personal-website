@@ -1,5 +1,28 @@
-# How I  made this site
-
+---
+title: How I Made This Site
+author: Elise Cutts
+date: '2020-06-02'
+slug: howto-site
+categories:
+  - About
+tags:
+  - R
+subtitle: ''
+lastmod: '2020-06-02T14:44:19-07:00'
+authorLink: ''
+description: ''
+hiddenFromHomePage: no
+hiddenFromSearch: no
+featuredImage: ''
+featuredImagePreview: ''
+toc:
+  enable: yes
+math:
+  enable: no
+lightgallery: no
+license: ''
+weight: 1
+---
 
 For those of us who aren't computer gods, the sheer number of options when it comes to making websites can be enough to start the brain dribbling out one ear even without all the jargon and code involved.
 
@@ -15,6 +38,3 @@ I'm not a web developer, and I would describe my experience with programming as 
 **WYSIWYG** stands for "What You See Is What You Get," and it essentially means what it says. A WYSIWYG editor shows the designer what the final product will look like, not a pile of code that then later gets rendered into a final product. 
 
 ### Deciding to leave Wix
-
-
-

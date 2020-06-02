@@ -1,30 +1,9 @@
----
-title: How I  made this site
-author: Elise Cutts
-date: '2020-05-26'
-slug: sticky-how-i-made-this-site
-categories: ['About']
-tags: ['R']
-subtitle: "And how you can make one too"
-lastmod: '2020-05-26T14:12:36-07:00'
-authorLink: ''
-description: ''
-hiddenFromHomePage: no
-hiddenFromSearch: no
-featuredImage: ''
-featuredImagePreview: ''
-toc:
-  enable: yes
-math:
-  enable: no
-lightgallery: no
-license: ''
-weight: 1
----
+# How I Made This Site
 
-<!--more-->
 
 For those of us who aren't computer gods, the sheer number of options when it comes to making websites can be enough to start the brain dribbling out one ear even without all the jargon and code involved.
+
+<!--more-->
 
 But we mere mortals often need websites, too. This one was built using [Hugo](https://gohugo.io/) with the [blogdown](https://blogdown-demo.rbind.io/) R package and is hosted for free on [Netlify](https://www.netlify.com/). 
 
@@ -36,5 +15,4 @@ I'm not a web developer, and I would describe my experience with programming as 
 **WYSIWYG** stands for "What You See Is What You Get," and it essentially means what it says. A WYSIWYG editor shows the designer what the final product will look like, not a pile of code that then later gets rendered into a final product. 
 
 ### Deciding to leave Wix
-
 
