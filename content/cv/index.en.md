@@ -5,7 +5,7 @@ date: '2020-05-27'
 slug: cv
 categories: []
 tags: []
-subtitle: 'Elise Cutts'
+subtitle: ''
 lastmod: '2020-05-27T16:34:14-07:00'
 authorLink: ''
 description: ''
@@ -25,15 +25,17 @@ comment:
 
 <!--more-->
 
-Download my CV [Word] [PDF] 
+Download my CV [<a href="/CV.docx" download>Word</a>] [<a href="/CV.pdf" download>PDF</a>] 
+
 
 ## Education
 
-**2020--Pres. Massachussetts Institute of Technology (MIT)** <br>
+2020--Pres. Massachussetts Institute of Technology (MIT) <br>
 Department of Earth, Atmospheric and Planetary Sciences <br>
 Ph.D. Geobiology [anticipated 2025], Adv. Tanja Bosak
 
-**2019. California Institute of Technology (Caltech)** <br>
+
+2019\. California Institute of Technology (Caltech) <br>
 B.S. Geobiology
 
 
@@ -41,22 +43,22 @@ B.S. Geobiology
 
 ### Fellowships & Grants
 
-**2020--2025\. Graduate Research Fellowship**, National Science Foundation <br>
+2020--2025\. Graduate Research Fellowship, National Science Foundation <br>
 MIT, Dept. of Earth, Atmospheric and Planetary Sciences
 
-**2020--2021\. Ida M. Green Fellowship**,  MIT <br>
+2020--2021\. Ida M. Green Fellowship,  MIT <br>
 MIT, Dept. of Earth, Atmospheric and Planetary Sciences
 
-**2019--2020\. Fulbright Grant**, Fulbright U.S. Student Program <br>
+2019--2020\. Fulbright Grant, Intstitute of International Education <br>
 University of Southern Denmark, [Nordcee](https://www.nordcee.dk/)
 
-**2018\. James J. Morgan Summer Undergraduate Research Fellowship**, Caltech <br>
+2018\. James J. Morgan Summer Undergraduate Research Fellowship, Caltech <br>
 Caltech, Dept. of Geological and Planetary Sciences
 
-**2017\. Mary Vodopia Summer Undergraduate Research Fellowship**, Caltech <br>
+2017\. Mary Vodopia Summer Undergraduate Research Fellowship, Caltech <br>
 Caltech, Dept. of Geological and Planetary Sciences
 
-**2016\. Summer Undergraduate Research Fellowship**, Caltech <br>
+2016\. Summer Undergraduate Research Fellowship, Caltech <br>
 NASA Jet Propulsion Laboratory
 
 ### Awards
@@ -78,26 +80,26 @@ J. Miura, B. Ehlmann, R. Greenberger, **E. Cutts** (2020) [*Microimaging Infrare
 
 ### Research
 
-**9.2019--4.2020. University of Southern Denmark** <br>
+9.2019--4.2020. University of Southern Denmark <br>
 Oxygen and Cyanobacterial Carbon Fixation, Adv. Don Canfield <br>
 Fulbright Grant 
 
-**4.2018--9.2019. Caltech**<br>
+4.2018--9.2019. Caltech <br>
 Microbial Deep-Sea Chitin Degradtion, Adv. Victoria Orphan <br>
 Undergraduate research (course credit); James J. Morgan Summer Undergraduate Research Fellowship <br>
 
-**9.2016--9.2017. Caltech**<br>
+9.2016--9.2017. Caltech <br>
 Imaging Spectroscopy of Martian Meteorites, Adv. Bethany Ehlmann <br>
 Undergraduate research (hourly pay); Mary Vodopia Summer Undergraduate Research Fellowship
 
-**7.2016--9.2016. NASA Jet Propulsion Laboratory** <br>
+ 7.2016--9.2016. NASA Jet Propulsion Laboratory <br>
 Ocean Carbonate Chemistry of Europa, Adv. Steve Vance <br>
 Summer Undergraduate Research Fellowship 
 
 
 ### Teaching
 
-**2017--2019. Caltech** <br>
+2017--2019. Caltech <br>
 Teaching Assistant <br>
 * SP 2018, 2019. Bi 1 Principles of Biology
 * WI 2018, 2019. Ge/Ay 159 Astrobiology
@@ -107,24 +109,24 @@ Teaching Assistant <br>
 
 ### Communications & Publications
 
-**8.2018--6.2019. Caltech Office of Strategic Communications** <br>
+8.2018--6.2019. Caltech Office of Strategic Communications <br>
 Science Writing Intern
 
-**6.2016--6.2019. [*The Big T*](https://bigt.caltech.edu/) (Caltech Yearbook)** <br>
+6.2016--6.2019. [*The Big T*](https://bigt.caltech.edu/) (Caltech Yearbook) <br>
 Editor-In-Chief
 
-**9.2018--6.2019. *[The Caltech Letters](https://caltechletters.org/)*** <br>
+9.2018--6.2019. *[The Caltech Letters](https://caltechletters.org/)* <br>
 Graphics Editor
 
 
 ## Professional Training
 
-**2020\. Data Analysis for the Life Sciences** <br>
+2020\. Data Analysis for the Life Sciences <br>
 HarvardX, Professional Certificate [in progress]
 * PH525.1x: Statistics and R [[certificate](https://courses.edx.org/certificates/869a3f5cd41f46a9962956020bc3b5e8)]
 * PH525.2x: Introduction to Linear Models and Matrix Algebra  [in prog.]
 
-**2020\. [Biophotonics](http://www.dambic.dk/index.php?page=BMB207)** <br>
+2020\. [Biophotonics](http://www.dambic.dk/index.php?page=BMB207) <br>
 University of Southern Denmark, 5 [ETCS](European_Credit_Transfer_and_Accumulation_System) PhD course (audited)
 
 
@@ -149,11 +151,11 @@ University of Southern Denmark, 5 [ETCS](European_Credit_Transfer_and_Accumulati
 
 ### Podcasting
 
-**3.2018, 7.2018. Trek.fm Network Pocasts** <br>
+3.2018, 7.2018. Trek.fm Network Podcasts <br>
 Warp 5 [Episode 136](http://www.trek.fm/warp-five/136), Earl Gray [Episode 237](http://www.trek.fm/earl-grey/237) <br>
 Guest Scientist
 
-**6.2017--6.2018. *[Strange New Worlds](https://soundcloud.com/strange-new-worlds)*** <br>
+6.2017--6.2018. *[Strange New Worlds](https://soundcloud.com/strange-new-worlds)* <br>
 Co-Host
 
 ### Talks & Panels
