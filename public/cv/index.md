@@ -9,7 +9,7 @@ Download my CV [Word] [PDF]
 
 **2020--Pres. Massachussetts Institute of Technology (MIT)** <br>
 Department of Earth, Atmospheric and Planetary Sciences <br>
-Ph.D. Geobiology [anticipated 2025], Adv. [Tanja Bosak](http://bosaklab.scripts.mit.edu/)
+Ph.D. Geobiology [anticipated 2025], Adv. Tanja Bosak
 
 **2019. California Institute of Technology (Caltech)** <br>
 B.S. Geobiology
@@ -47,7 +47,8 @@ NASA Jet Propulsion Laboratory
 
 ## Publications
 
-J. Miura, B. Ehlmann, R. Greenberger, **E. Cutts (2020)** *Microimaging Infrared Spectroscopy for Characterization of Martian Meteorite* Compositional Diversity. LPSC LI, Abstract # 2969
+### Abstracts
+J. Miura, B. Ehlmann, R. Greenberger, **E. Cutts** (2020) [*Microimaging Infrared Spectroscopy for Characterization of Martian Meteorite Compositional Diversity.*](https://www.hou.usra.edu/meetings/lpsc2020/pdf/2969.pdf) LPSC LI, Abstract # 2969
 
 **E. Cutts**, B. Ehlmann, R. Greenberger, J. Beckett, E. Stolper (2018) [*Visible and Shortwave Infrared Spectroscopy of Martian Meteorites.*](https://www.hou.usra.edu/meetings/lpsc2018/pdf/2749.pdf) LPSC XLIV, Abstract # 2749
 
@@ -56,19 +57,19 @@ J. Miura, B. Ehlmann, R. Greenberger, **E. Cutts (2020)** *Microimaging Infrared
 ### Research
 
 **9.2019--4.2020. University of Southern Denmark** <br>
-Oxygen and Microbial Carbon Fixation, Adv. [Don Canfield](https://portal.findresearcher.sdu.dk/en/persons/donald-e-canfield) <br>
-Fulbright Grant, program interrupted by COVID-19
+Oxygen and Cyanobacterial Carbon Fixation, Adv. Don Canfield <br>
+Fulbright Grant 
 
 **4.2018--9.2019. Caltech**<br>
-Microbial Deep-Sea Chitin Degradtion, Adv. [Victoria Orphan](http://orphanlab.caltech.edu/) <br>
-Undergraduate research for course credit, James J. Morgan Summer Undergraduate Research Fellowship <br>
+Microbial Deep-Sea Chitin Degradtion, Adv. Victoria Orphan <br>
+Undergraduate research (course credit); James J. Morgan Summer Undergraduate Research Fellowship <br>
 
 **9.2016--9.2017. Caltech**<br>
-Imaging Spectroscopy of Martian Meteorites, Adv. [Bethany Ehlmann](http://www.ehlmann.caltech.edu/)<br>
-Undergraduate research for hourly pay, Mary Vodopia Summer Undergraduate Research Fellowship
+Imaging Spectroscopy of Martian Meteorites, Adv. Bethany Ehlmann <br>
+Undergraduate research (hourly pay); Mary Vodopia Summer Undergraduate Research Fellowship
 
 **7.2016--9.2016. NASA Jet Propulsion Laboratory** <br>
-Carbonate Chemistry of Europa, Adv. [Steve Vance](https://science.jpl.nasa.gov/people/Vance/) <br>
+Ocean Carbonate Chemistry of Europa, Adv. Steve Vance <br>
 Summer Undergraduate Research Fellowship 
 
 
@@ -82,47 +83,47 @@ Teaching Assistant <br>
 * SP 2017.  Ge/Ay 11c/101c Introduction to Planetary Sciences
 
 
-### Writing & Communications
+### Communications & Publications
 
-**8.2018--6.2019.Caltech Office of Strategic Communications** <br>
+**8.2018--6.2019. Caltech Office of Strategic Communications** <br>
 Science Writing Intern
 
-**6.2016--6.2019. *The Big T* (Caltech Yearbook)** <br>
+**6.2016--6.2019. [*The Big T*](https://bigt.caltech.edu/) (Caltech Yearbook)** <br>
 Editor-In-Chief
 
-**9.2018--6.2019. *The Caltech Letters*** <br>
+**9.2018--6.2019. *[The Caltech Letters](https://caltechletters.org/)*** <br>
 Graphics Editor
 
 
 ## Professional Training
 
-**2020\. [Data Analysis for the Life Sciences](https://www.edx.org/professional-certificate/harvardx-data-analysis-for-life-sciences)** <br>
-Professional Certificate [in progress], HarvardX
-* Statistics and R (HarvardX  PH525.1x)
-* Introduction to Linear Models and Matrix Algebra (HarvardX PH525.2x) [in prog.]
+**2020\. Data Analysis for the Life Sciences** <br>
+HarvardX, Professional Certificate [in progress]
+* PH525.1x: Statistics and R [[certificate](https://courses.edx.org/certificates/869a3f5cd41f46a9962956020bc3b5e8)]
+* PH525.2x: Introduction to Linear Models and Matrix Algebra  [in prog.]
 
 **2020\. [Biophotonics](http://www.dambic.dk/index.php?page=BMB207)** <br>
-5 [ETCS](European_Credit_Transfer_and_Accumulation_System) PhD course (audited), University of Southern Denmark
+University of Southern Denmark, 5 [ETCS](European_Credit_Transfer_and_Accumulation_System) PhD course (audited)
 
 
 ## Science Communication & Outreach
 
 ### Published Science Writing
 
-2019\. “Learning to Craft Handmade Tools in the Digital Age,”  *The California Tech* <br>
-2019\. “Newly Discovered Giant Planet Slingshots Around Its Star,” *Caltech News* <br>
-2019\. “STEMonstrators Connect With Local Students,” *Caltech Magazine* <br>
-2019\. "Famed Oceanographer Walter Munk Dead at 101," *Caltech News* <br>
-2019\. "Electron Tomography Database Changes the Game," *Caltech News* <br>
-2019\. "Q&A: Creating a Virtual Seismologist," *Caltech News* <br>
-2019\. "Frances Arnold Wins 2019 Bower Award for Achievement in Science," *Caltech News* <br>
-2018\. "Cracking Open a Cold One With the Flies," *Caltech News* <br>
-2018\. "Superfast Jet Observed Streaming Away from Stellar Collision," *Caltech News* <br>
-2018\. “Think Outside the Classroom,” The Big T Volume 97 *Discovery* <br>
-2018\. “From Tycho’s Star to Shakespeare’s Page,” *Caltech News* <br>
-2018\. “Vilcek Foundation Prize Awarded to Mikhail Shapiro,” *Caltech News* <br>
-2018\. “Mikhail Shapiro Wins Roger Tsien Award for Excellence in Chemical Biology,” *Caltech News* <br>
-2017\. “Wonder Women,” The Big T Volume 96 *Beyond*
+2019\. [“Learning to Craft Handmade Scientific Tools in the Automated Age,”](https://caltechcampuspubs.library.caltech.edu/3323/1/TheCaliforniaTech_issue28.pdf)  *The California Tech* <br>
+2019\. [“Newly Discovered Giant Planet Slingshots Around Its Star,” ](https://www.caltech.edu/about/news/newly-discovered-giant-planet-slingshots-around-its-star)*Caltech News* <br>
+2019\. [“STEMonstrators Connect With Local Students,”](https://magazine.caltech.edu/post/stemonstrators) *Caltech Magazine* <br>
+2019\. ["Famed Oceanographer Walter Munk Dead at 101,"](https://www.caltech.edu/about/news/famed-oceanographer-walter-munk-bs-39-ms-40-dead-101-85320) *Caltech News* <br>
+2019\. ["Electron Tomography Database Changes the Game,"](https://www.caltech.edu/about/news/electron-tomography-database-changes-game-scientific-data-distribution) *Caltech News* <br>
+2019\. ["Q&A: Creating a Virtual Seismologist,"](https://www.caltech.edu/about/news/qa-creating-virtual-seismologist-84789) *Caltech News* <br>
+2019\. ["Frances Arnold Wins 2019 Bower Award for Achievement in Science,"](https://www.caltech.edu/about/news/frances-arnold-wins-2019-bower-award-achievement-science-85321) *Caltech News* <br>
+2018\. ["Cracking Open a Cold One With the Flies,"](https://www.caltech.edu/about/news/cracking-open-cold-one-flies-84527) *Caltech News* <br>
+2018\. ["Superfast Jet Observed Streaming Away from Stellar Collision,"](https://www.caltech.edu/about/news/superfast-jet-observed-streaming-away-stellar-collision-83414) *Caltech News* <br>
+2018\. [“Think Outside the Classroom,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=30) *The Big T* Volume 97 "Discovery" <br>
+2018\. [“From Tycho’s Star to Shakespeare’s Page,”](https://www.caltech.edu/about/news/tycho-s-star-shakespeare-s-page-84196) *Caltech News* <br>
+2018\. [“Vilcek Foundation Prize Awarded to Mikhail Shapiro,”](https://www.caltech.edu/about/news/vilcek-foundation-prize-awarded-mikhail-shapiro-85213) *Caltech News* <br>
+2018\. [“Mikhail Shapiro Wins Roger Tsien Award for Excellence in Chemical Biology,”](https://www.caltech.edu/about/news/mikhail-shapiro-wins-roger-tsien-award-excellence-chemical-biology-83507) *Caltech News* <br>
+2017\. [“Wonder Women,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=32) *The Big T* Volume 96 "Beyond" 
 
 ### Podcasting
 
@@ -139,38 +140,32 @@ Co-Host
 
 ## Other
 
-### Languages
-
-**English (US).** Native speaker
-
-**German.** Self-taught. B2 reading, A2 speaking and writing
-
 ### Additional Published Writing
 
-2019\. The Big T Volume 98 *Make It So* (Editor-in-Chief) <br>
+2019\. *The Big T* Volume 98 "Make It So"" (Editor-in-Chief) <br>
 2019\. “Letter from the Editor,” The Big T Volume 96 *Make It So* <br>
 2019\. “Statistically Significant,” The Big T Volume 96 *Make It So* <br>
-2018\. “Caltech Scholars Charged to ‘Sculpt’ Their Own Experience” *Caltech News* <br>
-2018\. “Fox Stanton Track Reopens on South Field,” *Caltech News* <br>
-2018\. “Caltech Awards Millikan Medal to Ben Rosen,” *Caltech News* <br>
-2018\. The Big T Volume 97 *Discovery* (Editor-in-Chief) <br>
-2018\. “Letter from the Editor,” The Big T Volume 97 *Discovery* <br>
-2018\. “Good Trouble,” The Big T Volume 97 *Discovery* <br>
-2018\. “Today Plus One,” The Big T Volume 97 *Discovery* <br>
-2018\. “Live Long and Prosper,” The Big T Volume 97 *Discovery* <br>
-2018\. “Lights Calculators Action,” The Big T Volume 97 *Discovery* <br>
-2018\. “Orders of Magnitude,” The Big T Volume 97 *Discovery* <br>
-2018\. “Sunfish,” The Big T Volume 97 *Discovery* <br>
-2018\. “Ce n’est pas en Page,” The Big T Volume 97 *Discovery* <br>
-2018\. “Spring Force,” The Big T Volume 97 *Discovery* <br>
-2018\. “Imagining a Living Universe,” *Caltech Letters* <br>
-2017\. The Big T Volume 96 *Beyond* (Editor-in-Chief) <br>
-2017\. “Letter from the Editor,” The Big T Volume 96 *Beyond* <br>
-2017\. “At Last!,” The Big T Volume 96 *Beyond* <br>
-2017\. “Yeah Beavers!,” The Big T Volume 96 *Beyond* <br>
-2017\. “If You Build It, They Will Come,” The Big T Volume 96 *Beyond* <br>
-2017\. “In Comes Company,” The Big T Volume 96 *Beyond* <br>
-2017\. “Firewall,” The Big T Volume 96 *Beyond* <br>
-2017\. “Music Theory,” The Big T Volume 96 *Beyond* <br>
-2016\. “Is Boldly Go! Bold Enough?,” *The California Tech*
+2018\. [“Caltech Scholars Charged to ‘Sculpt’ Their Own Experience”](https://www.caltech.edu/about/news/caltech-scholars-are-charged-sculpt-their-own-experience-learning-83752) *Caltech News* <br>
+2018\. [“Fox Stanton Track Reopens on South Field,”](https://www.caltech.edu/about/news/fox-stanton-track-reopens-south-field-83285) *Caltech News* <br>
+2018\. [“Caltech Awards Millikan Medal to Ben Rosen,”](https://www.caltech.edu/about/news/caltech-awards-millikan-medal-ben-rosen-bs-54-84219) *Caltech News* <br>
+2018\. *The Big T* Volume 97 ["Discovery"](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf) (Editor-in-Chief) <br>
+2018\. [“Letter from the Editor,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=142) *The Big T* Volume 97 "Discovery" <br>
+2018\. [“Good Trouble,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=82) *The Big T* Volume 97 "Discovery" <br>
+2018\. [“Today Plus One,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=80) *The Big T* Volume 97 "Discovery" <br>
+2018\. [“Live Long and Prosper,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=74) *The Big T* Volume 97 "Discovery" <br>
+2018\. [“Lights Calculators Action,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=62) *The Big T* Volume 97 "Discovery" <br>
+2018\. [“Orders of Magnitude,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=58) *The Big T* Volume 97 "Discovery" <br>
+2018\. [“Sunfish,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=44) *The Big T* Volume 97 "Discovery" <br>
+2018\. [“Ce n’est pas en Page,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=28) *The Big T* Volume 97 "Discovery" <br>
+2018\. [“Spring Force,”](https://caltechcampuspubs.library.caltech.edu/3291/1/2017book.pdf#page=24) *The Big T* Volume 97 "Discovery" <br>
+2017\. *The Big T* Volume 96 ["Beyond"](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf)  (Editor-in-Chief) <br>
+2017\. [“Letter from the Editor,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=124) *The Big T* Volume 96 "Beyond"  <br>
+2017\. [“At Last!,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=58) *The Big T* Volume 96 "Beyond"  <br>
+2017\. [“Yeah Beavers!,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=54) *The Big T* Volume 96 "Beyond"  <br>
+2017\. [“If You Build It, They Will Come,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=52) *The Big T* Volume 96 "Beyond"  <br>
+2017\. [“In Comes Company,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=50) *The Big T* Volume 96 "Beyond" <br>
+2017\. ["Fear or Fun,"](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=38) *The Big T* Volume 96 "Beyond" <br>
+2017\. [“Firewall,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=22) *The Big T* Volume 96 "Beyond" <br>
+2017\. [“Music Theory,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=20) *The Big T* Volume 96 "Beyond" <br>
+2017. ["Science by Day, Music by Night,"](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=40) *The Big T* Volume 96 "Beyond" <br>
 

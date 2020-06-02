@@ -5,7 +5,7 @@ date: '2020-05-26'
 slug: sticky-how-i-made-this-site
 categories: ['About']
 tags: ['R']
-subtitle: "A cleaner, cheaper, better site using Hugo and blogdown"
+subtitle: "And how you can make one too"
 lastmod: '2020-05-26T14:12:36-07:00'
 authorLink: ''
 description: ''

@@ -60,21 +60,13 @@ enableEmoji = true
         title = ""
         weight = 3
       [[languages.en.menu.main]]
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "About"
-        url = "/about/"
-        title = ""
-        weight = 4
-      [[languages.en.menu.main]]
         identifier = "cv"
         pre = ""
         post = ""
         name = "CV"
         url = "/cv/"
         title = ""
-        weight = 5
+        weight = 4
     [languages.en.params]
       # site description
       description = "Elise Cutts' Personal Wesbite"
@@ -131,7 +123,7 @@ enableEmoji = true
           titlesub = "I'm a geobiology grad student at MIT."
           
           # subtitle shown in home page
-          subtitle = "I write about things like <b>science</b>, life at <b>grad school</b>, and my ever-expanding <b>German</b> Anki flashcard deck. I'm also documenting my progress (and my many, many mistakes) as I start from zero learning to use <b>Python</b> and <b>R</b> for <b>data analysis</b> so that other newbies can see what it's really like to get started."
+          subtitle = "I write about things like <b>science</b>, life at <b>grad school</b>, and my ever-expanding <b>German</b> Anki flashcard deck. I'm also documenting my progress (and my many, many mistakes) as I start from zero learning to program for scientific <b>data analysis</b> so that other newbies can see what it's really like to get started."
   
           # whether to use typeit animation for subtitle
           typeit = true
