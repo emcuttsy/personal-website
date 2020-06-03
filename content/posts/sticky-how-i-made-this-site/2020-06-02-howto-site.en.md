@@ -7,7 +7,7 @@ categories:
   - About
 tags:
   - R
-subtitle: ''
+subtitle: 'Goodbye Wix, hello Hugo'
 lastmod: '2020-06-02T14:44:19-07:00'
 authorLink: ''
 description: ''
@@ -24,17 +24,11 @@ license: ''
 weight: 1
 ---
 
-For those of us who aren't computer gods, the sheer number of options when it comes to making websites can be enough to start the brain dribbling out one ear even without all the jargon and code involved.
+
+I originally used  a popular all-in-one web service. But after 3 years of drag-and-drop, this site is now based powered by Hugo. Making my peace with needing a *bit* of code earned me a new website that is faster, more beautiful and much, *much* cheaper. 
 
 <!--more-->
 
-But we mere mortals often need websites, too. This one was built using [Hugo](https://gohugo.io/) with the [blogdown](https://blogdown-demo.rbind.io/) R package and is hosted for free on [Netlify](https://www.netlify.com/). 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Of course, there's no one right way to make a website. This setup just happens to work well for me. I just hope that sharing my experience---both with a popular web design service and with my current, Markdown-based setup---might go a little way towards making this whole website business a bit less brain-dribbling-out-the-ear for you.
-
-## Breaking up with WYSIWYG 
-I'm not a web developer, and I would describe my experience with programming as minimal. So when I decided to make a personal website, I originally registered my domain with [Wix](www.wix.com) and used their WYSIWYG website editor to build and maintain my site for years. 
-
-**WYSIWYG** stands for "What You See Is What You Get," and it essentially means what it says. A WYSIWYG editor shows the designer what the final product will look like, not a pile of code that then later gets rendered into a final product. 
-
-### Deciding to leave Wix
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?

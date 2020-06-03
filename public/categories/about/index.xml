@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>About - Category - Elise Cutts</title>
-        <link>https://example.com/categories/about/</link>
+        <link>/categories/about/</link>
         <description>About - Category - Elise Cutts</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
-            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 02 Jun 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/categories/about/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 02 Jun 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="/categories/about/" rel="self" type="application/rss+xml" /><item>
     <title>How I Made This Site</title>
-    <link>https://example.com/2020-06-02-howto-site/</link>
+    <link>/2020-06-02-howto-site/</link>
     <pubDate>Tue, 02 Jun 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://example.com/2020-06-02-howto-site/</guid>
-    <description><![CDATA[<p>For those of us who aren&rsquo;t computer gods, the sheer number of options when it comes to making websites can be enough to start the brain dribbling out one ear even without all the jargon and code involved.</p>]]></description>
+    <guid>/2020-06-02-howto-site/</guid>
+    <description><![CDATA[<p>I originally used  a popular all-in-one web service. But after 3 years of drag-and-drop, this site is now based powered by Hugo. Making my peace with needing a <em>bit</em> of code earned me a new website that is faster, more beautiful and much, <em>much</em> cheaper.</p>]]></description>
 </item></channel>
 </rss>
