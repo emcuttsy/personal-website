@@ -123,8 +123,8 @@ enableEmoji = true
           titlesub = "I'm a geobiology grad student at MIT."
           
           # subtitle shown in home page
-          subtitle = "I write about things like <b>science</b>, life at <b>grad school</b>, and my ever-expanding <b>German</b> Anki flashcard deck. I'm also documenting my progress (and my many, many mistakes) as I start from zero learning to program for scientific <b>data analysis</b> so that other newbies can see what it's really like to get started."
-  
+          subtitle = "<u><i>Website under construction!</i></u> Check back soon for my thoughts on things like learning R and Python for science, my ever-expanding Anki deck of German flashcards, and grad school in the time of coronavirus."
+          #I write about things like <b>science</b>, life at <b>grad school</b>, and my ever-expanding <b>German</b> Anki flashcard deck. I'm also documenting my progress (and my many, many mistakes) as I start from zero learning to program for scientific <b>data analysis</b> so that other newbies can see what it's really like to get started.
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links

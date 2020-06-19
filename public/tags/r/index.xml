@@ -5,11 +5,18 @@
         <description>R - Tag - Elise Cutts</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
             <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 02 Jun 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/r/" rel="self" type="application/rss+xml" /><item>
-    <title>How I Made This Site</title>
+    <title>How to make this website</title>
+    <link>/drafts/sticky-how-i-made-this-site/howto-site/</link>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>/drafts/sticky-how-i-made-this-site/howto-site/</guid>
+    <description><![CDATA[<p>After 3 years of dragging-and-dropping with <a href="https://www.wix.com/" target="_blank" rel="noopener noreffer">Wix</a>, this site is now powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer">Hugo</a>. Making my peace with needing a <em>bit</em> of code earned me a website I&rsquo;m much happier with and that costs a lot less to maintain.</p>]]></description>
+</item><item>
+    <title>How to make this website</title>
     <link>/2020-06-02-howto-site/</link>
     <pubDate>Tue, 02 Jun 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>/2020-06-02-howto-site/</guid>
-    <description><![CDATA[<p>I originally used  a popular all-in-one web service. But after 3 years of drag-and-drop, this site is now based powered by Hugo. Making my peace with needing a <em>bit</em> of code earned me a new website that is faster, more beautiful and much, <em>much</em> cheaper.</p>]]></description>
+    <description><![CDATA[<p>After 3 years of dragging-and-dropping with <a href="https://www.wix.com/" target="_blank" rel="noopener noreffer">Wix</a>, this site is now powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer">Hugo</a>. Making my peace with needing a <em>bit</em> of code earned me a website I&rsquo;m much happier with and that costs a lot less to maintain.</p>]]></description>
 </item></channel>
 </rss>
