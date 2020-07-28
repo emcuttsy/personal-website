@@ -29,10 +29,10 @@
   }
 }
 
-// Changed font family of header title to Andale Mono.
+// Changed the margin on the header a bit
 .header-title {
-  font-family: Andale Mono, $global-font-family;
   margin-left: .5rem;
+  font-weight: normal;
 }
 
 .header-title-pre{
@@ -40,3 +40,13 @@
 }
 
 
+.handwriting{
+ font-family: $header-title-font-family; 
+ font-size: 1.5rem;
+}
+
+.signature{
+ font-family: $header-title-font-family; 
+ font-size: 1.5rem;
+ float: right;
+}

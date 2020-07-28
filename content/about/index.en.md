@@ -42,3 +42,7 @@ At Caltech, I worked with Prof. Victoria Orphan to isolate members of a chitin-d
 
 See [my CV](../cv/) for more.
 
+Thanks for visiting!
+
+<span class="signature">Elise</span>
+

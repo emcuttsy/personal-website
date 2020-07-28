@@ -2,3 +2,14 @@
 // Custom style
 // 自定义样式
 // ==============================
+
+.header-title {
+  font-family: Arial;
+  font-weight: bold;
+  margin-right: .5rem;
+  min-width: 10%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  @include flex(10);
+}
