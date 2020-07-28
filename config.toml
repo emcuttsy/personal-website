@@ -66,7 +66,7 @@ enableEmoji = true
         name = "CV"
         url = "/cv/"
         title = ""
-        weight = 4
+        weight = 5
       [[languages.en.menu.main]]
         identifier = "About"
         pre = ""
@@ -74,7 +74,7 @@ enableEmoji = true
         name = "About"
         url = "/About/"
         title = ""
-        weight = 5      
+        weight = 4     
     [languages.en.params]
       # site description
       description = "Elise Cutts' Personal Wesbite"
@@ -219,7 +219,7 @@ enableEmoji = true
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/dillonzq/LoveIt"
+  gitRepo = "https://github.com/emcuttsy/personal-website"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   # date format
