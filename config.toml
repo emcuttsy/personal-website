@@ -146,7 +146,7 @@ enableEmoji = true
       # Social config in home page
       [languages.en.params.social]
         GitHub = ""
-        Linkedin = "https://www.linkedin.com/in/elisecutts/"
+        Linkedin = "elisecutts/"
         Twitter = ""
         Instagram = ""
         Facebook = ""
