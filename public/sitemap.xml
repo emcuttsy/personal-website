@@ -2,11 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/</loc><lastmod>2020-07-27T14:14:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/posts/</loc><lastmod>2020-07-27T14:14:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/2020-07-27-test-post/</loc><lastmod>2020-07-27T14:14:45&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/cv/</loc><lastmod>2020-06-02T14:29:19-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/about/</loc><lastmod>2020-06-02T13:23:55-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/documentation/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://elisecutts.com/</loc><lastmod>2020-07-28T10:41:01&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://elisecutts.com/posts/</loc><lastmod>2020-07-28T10:41:01&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://elisecutts.com/2020-07-27-test-post/</loc><lastmod>2020-07-28T10:41:01&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://elisecutts.com/cv/</loc><lastmod>2020-06-02T14:29:19-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://elisecutts.com/about/</loc><lastmod>2020-07-28T10:41:01&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://elisecutts.com/categories/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://elisecutts.com/categories/documentation/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://elisecutts.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

@@ -20,7 +20,7 @@ math:
 lightgallery: no
 license: ''
 comment:
-  enable: true
+  enable: false
 ---
 
 ![](./me_geologisthat.jpg#centerXtraPadding)
