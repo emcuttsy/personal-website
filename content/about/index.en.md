@@ -37,7 +37,7 @@ See [my CV](../cv/) for more.
 
 ## Blog
 
-I write about my experiences navigating science and graduate school as näive newcomer to the ivory tower. The blog is usually updated monthly with a new opinion piece and weekly with regular content.
+I write about my experiences navigating science and graduate school as naïve newcomer to the ivory tower. The blog is usually updated monthly with a new opinion piece and weekly with regular content.
 
 Thanks for visiting! 
 
