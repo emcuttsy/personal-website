@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://elisecutts.com"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
@@ -33,7 +33,7 @@ enableEmoji = true
     # Menu config
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "post"
+        identifier = "posts"
         # you can add extra information before the name (HTML format is supported), such as icons
         pre = ""
         # you can add extra information after the name (HTML format is supported), such as icons
@@ -67,6 +67,14 @@ enableEmoji = true
         url = "/cv/"
         title = ""
         weight = 4
+      [[languages.en.menu.main]]
+        identifier = "About"
+        pre = ""
+        post = ""
+        name = "About"
+        url = "/About/"
+        title = ""
+        weight = 5      
     [languages.en.params]
       # site description
       description = "Elise Cutts' Personal Wesbite"
@@ -123,8 +131,7 @@ enableEmoji = true
           titlesub = "I'm a geobiology grad student at MIT."
           
           # subtitle shown in home page
-          subtitle = "<u><i>Website under construction!</i></u> Check back soon for my thoughts on things like learning R and Python for science, my ever-expanding Anki deck of German flashcards, and grad school in the time of coronavirus."
-          #I write about things like <b>science</b>, life at <b>grad school</b>, and my ever-expanding <b>German</b> Anki flashcard deck. I'm also documenting my progress (and my many, many mistakes) as I start from zero learning to program for scientific <b>data analysis</b> so that other newbies can see what it's really like to get started.
+          subtitle = "In 2020 I moved to Boston to start my PhD after a year split between a Fulbright in Denmark and coronavirus lockdown in the US. Now I'm navigating my first years of grad school and learning to be a scientist, and I write about the things I figure out along the way."
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -233,7 +240,7 @@ enableEmoji = true
       # title name
       name = "Elise Cutts"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "<i class='fas fa-flask fa-fw'></i>"
+      pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # whether to use typeit animation for title name
@@ -485,10 +492,10 @@ enableEmoji = true
 
   # Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "UA-172705638-1"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics

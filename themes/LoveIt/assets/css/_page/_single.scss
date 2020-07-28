@@ -57,7 +57,7 @@
     }
 
     > h3 {
-      font-size: 1.375rem;
+      font-size: 1.325rem;
 
       & code {
         font-size: 1.125rem;
@@ -73,7 +73,7 @@
     }
 
     > h5 {
-      font-size: 1.125rem;
+      font-size: 1.1rem;
     }
 
     > h6 {
@@ -99,7 +99,7 @@
     > h5,
     > h6 {
       > .header-mark::before {
-        content: "|";
+        content: "| ";
         margin-right: .3125rem;
         color: $single-link-color;
 
@@ -110,9 +110,10 @@
     }
 
     > h2 > .header-mark::before {
-      content: "#";
+      content: "# ";
     }
-
+    
+    
     p {
       margin: .5rem 0;
     }
@@ -209,6 +210,23 @@
     img {
       max-width: 100%;
       min-height: 1em;
+    }
+    
+    img[src*='#center'] {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    min-height: 1em;
+    }
+    
+    img[src*='#centerXtraPadding'] {
+    display: block;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+    min-height: 1em;
     }
 
     figure {
