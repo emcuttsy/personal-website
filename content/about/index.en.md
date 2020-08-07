@@ -25,7 +25,7 @@ comment:
 
 ![](./me_geologisthat.jpg#centerXtraPadding)
 
-I'm an incoming PhD student at MIT studying geobiology. My scientific interests are broadly in the ongoing and historical interractions between life and the Earth, especially when it comes to microbial life and environmental conditions.
+I'm an incoming PhD student at MIT studying geobiology. My scientific interests are broadly in the ongoing and historical interactions between life and the Earth, especially when it comes to microbial life and environmental conditions.
 
 Before MIT, I earned my B.S. in geobiology at Caltech and spent a Fulbright involved in geobiological research at the University of Southern Denmark in Odense, Denmark before the pandemic terminated my exchange. After having spent a few months in the US, I'm now back in Denmark---this time just to see my boyfriend before I head off to Cambridge in the fall. 
 

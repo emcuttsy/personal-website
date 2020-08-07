@@ -121,10 +121,13 @@ Graphics Editor
 
 ## Professional Training
 
+2020\. Introduction to Computer Science and Programming Using Python<br>
+MITx, edX course [[certificate](https://courses.edx.org/certificates/9f61cd8cb8174f6ab430a2224182edfe)]
+
 2020\. Data Analysis for the Life Sciences <br>
-HarvardX, Professional Certificate [in progress]
+HarvardX, edX professional certificate [in progress]
 * PH525.1x: Statistics and R [[certificate](https://courses.edx.org/certificates/869a3f5cd41f46a9962956020bc3b5e8)]
-* PH525.2x: Introduction to Linear Models and Matrix Algebra  [in prog.]
+* PH525.2x: Introduction to Linear Models and Matrix Algebra  [in progress]
 
 2020\. [Biophotonics](http://www.dambic.dk/index.php?page=BMB207) <br>
 University of Southern Denmark, 5 [ETCS](European_Credit_Transfer_and_Accumulation_System) PhD course (audited)
