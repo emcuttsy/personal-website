@@ -112,15 +112,11 @@ Every week, you can expect to spend **2-3 hours on video lectures**, about **an 
 
 Personally, I didn't find the course absurdly hard. I spent about 3.5 hours a week on the class—1.5 hours going through the lectures and finger exercises (many thanks to whoever put a 1.25 speed button on the videos) and about 2 hours on the problem sets. I didn't have any problems with the exams, and didn't need to study or review outside of watching the video lectures to keep up.
 
-However, when I read through the forums I saw that many of my classmates were spending over 10 hours on problem sets each week.
+However, when I read through the forums I saw that some of my classmates were spending over 10 hours on problem sets each week. 
 
-*Do these people just not know about Stack Overflow?*
+I definitely had some advantages that made things easier for me. While I'm not a programmer by any means, I do have some limited experience writing code.
 
-Facetiousness aside, 6.00.1x is definitely not a casual course. Be prepared for a quick pace and beefy problem sets due each week. 
-
-This isn't to say that the course is too hard for a beginner. Depending on your background, it might not be difficult at all. 
-
-I definitely had some advantages that made things easier for me. While I'm not a programmer by any means, I do have some limited experience writing code. And coming out of Caltech, I'm used to zippy classes. 
+Also, hanging around computer nerds at Caltech meant that I already got the "just Stack Overflow everything" lecture, which, for an intro class like this, really does ssolve most problems.
 
 {{< admonition type=question title="Is 6.00.1x a good choice for absolute beginners?" open=false >}}
 
