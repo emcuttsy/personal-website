@@ -27,7 +27,7 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
+    googleAnalytics = "UA-172705638-1"
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
@@ -96,7 +96,7 @@ enableEmoji = true
         tileColor = "#da532c"
       # Search config
       [languages.en.params.search]
-        enable = false
+        enable = true
         # type of search engine ("lunr", "algolia")
         type = "lunr"
         # max index length of the chunked content
@@ -455,7 +455,7 @@ enableEmoji = true
     [params.page.seo]
       # Publisher info
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "Elise Cutts"
         [params.page.seo.publisher.logo]
           url = "logo.png"
           width = 127
@@ -484,7 +484,7 @@ enableEmoji = true
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "_-Jgg8Mc2ALPfXvFtgBEEBU2eAr_1CA1GBGvFhY6KXM"
     bing = ""
     yandex = ""
     pinterest = ""

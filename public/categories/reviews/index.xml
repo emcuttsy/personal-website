@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Reviews - Category - Elise Cutts</title>
-        <link>https://elisecutts.com/categories/reviews/</link>
+        <link>/categories/reviews/</link>
         <description>Reviews - Category - Elise Cutts</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
-            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 19 Aug 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://elisecutts.com/categories/reviews/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 19 Aug 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="/categories/reviews/" rel="self" type="application/rss+xml" /><item>
     <title>Review: MITx 6001.x Introduction to Computer Science and Programming using Python</title>
-    <link>https://elisecutts.com/2020-08-19-review-mitx-6001-x-introduction-to-computer-science-and-programming-using-python/</link>
+    <link>/2020-08-19-review-mitx-6001-x-introduction-to-computer-science-and-programming-using-python/</link>
     <pubDate>Wed, 19 Aug 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://elisecutts.com/2020-08-19-review-mitx-6001-x-introduction-to-computer-science-and-programming-using-python/</guid>
+    <guid>/2020-08-19-review-mitx-6001-x-introduction-to-computer-science-and-programming-using-python/</guid>
     <description><![CDATA[<p>I&rsquo;m going to go out on a limb here and guess that most scientists didn&rsquo;t decide to become reseachers because they dreamed of pouring hours into Matlab scripts and peering at liness of code on a computer screen.</p>]]></description>
 </item></channel>
 </rss>
