@@ -467,9 +467,9 @@ enableEmoji = true
         height = 40
       # Image info
       [params.page.seo.image]
-        url = "cover.png"
-        width = 800
-        height = 600
+        url = "logo.png"
+        width = 920
+        height = 1000
 
   # TypeIt config
   [params.typeit]
