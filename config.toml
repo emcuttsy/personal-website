@@ -131,7 +131,7 @@ enableEmoji = true
           titlesub = "I'm a geobiology grad student at MIT."
           
           # subtitle shown in home page
-          subtitle = "In 2020 I moved to Boston to start my PhD after a year split between a Fulbright in Denmark and coronavirus lockdown in the US. Now I'm navigating my first years of grad school and learning to be a scientist, and I write about the things I figure out along the way."
+          subtitle = ""
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links

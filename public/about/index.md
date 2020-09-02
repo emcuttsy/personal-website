@@ -3,19 +3,9 @@
 
 ![](./me_geologisthat.jpg#centerXtraPadding)
 
-I'm an incoming PhD student at MIT studying geobiology. My scientific interests are broadly in the ongoing and historical interactions between life and the Earth, especially when it comes to microbial life and environmental conditions.
+I'm a first-year geobiology PhD student at MIT in the [Bosak Group](http://bosaklab.scripts.mit.edu/). My scientific interests are broadly in the ongoing and historical interactions between life and the Earth, especially when it comes to microbial life and Earth's surface environmental conditions.
 
-Before MIT, I earned my B.S. in geobiology at Caltech and spent a Fulbright involved in geobiological research at the University of Southern Denmark in Odense, Denmark before the pandemic terminated my exchange. After having spent a few months in the US, I'm now back in Denmark---this time just to see my boyfriend before I head off to Cambridge in the fall. 
-
-## Research
-
-I'm interested in life, the planet, and how the two interract with one another. When I get started at MIT, I'll be joining the [Bosak Group](http://bosaklab.scripts.mit.edu/) to study the clumped isotope record of dolomite. I also plan to work on a collaborative project with the Fournier Group performing phylogenomic analysis of metagenomes derived from pustular microbial mats in Shark Bay, Australia.
-
-See [my CV](../cv/) for more.
-
-## Blog
-
-I write about my experiences navigating science and graduate school as naïve newcomer to the ivory tower. The blog is usually updated monthly with a new opinion piece and weekly with regular content.
+Before MIT, I studied geobiology at Caltech and spent a Fulbright involved in geobiological research at the University of Southern Denmark in Odense, Denmark.
 
 Thanks for visiting! 
 

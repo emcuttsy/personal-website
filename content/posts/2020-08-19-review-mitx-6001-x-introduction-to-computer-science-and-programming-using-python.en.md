@@ -116,7 +116,7 @@ However, when I read through the forums I saw that some of my classmates were sp
 
 I definitely had some advantages that made things easier for me. While I'm not a programmer by any means, I do have some limited experience writing code.
 
-Also, hanging around computer nerds at Caltech meant that I already got the "just Stack Overflow everything" lecture, which, for an intro class like this, really does ssolve most problems.
+Also, hanging around computer nerds at Caltech meant that I already got the "just Stack Overflow everything" lecture, which, for an intro class like this, really does solve most problems.
 
 {{< admonition type=question title="Is 6.00.1x a good choice for absolute beginners?" open=false >}}
 
