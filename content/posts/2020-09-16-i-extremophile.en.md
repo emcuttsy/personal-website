@@ -5,9 +5,12 @@ date: '2020-09-16'
 slug: i-extremophile
 categories:
   - Geobiology
+  - Fun Facts
 tags:
-  - Microbiology
-  - Phylogenomics
+  - microbiology
+  - geobiology
+  - grad school
+  - fun facts
 subtitle: ''
 lastmod: '2020-09-16T13:07:12-04:00'
 authorLink: ''
@@ -52,7 +55,7 @@ It's cold.
 
 A handful of mammals, birds, and fish have independently evolved ways to survive, maintain activity, and reproduce at sub-zero temperatures, but microbes haven't. 
 
-Even the most "cryophilic" microbes can't maintain metabolic activity at just a few degrees below 0 C. In brine pockets with enough salinity to keep water liquid below freezing temperatures, microbes still don't cope well if it gets too cold. Metabolic reactions required for maintaining cell integrity, growing and reproducing grind to a halt below freezing. Big lifeforms can generate enough heat to warm themselves, but microbes can't. They're just too small, their surface-area to voulme ratio just too enormous—that is, relative to their size, microbes have a lot less interior volume that could be used to run heat-producing reactions than external surface area through which any generated heat escapes.
+Prof. Founrier explained that even the most "cryophilic" microbes can't maintain metabolic activity at just a few degrees below 0 C. In brine pockets with enough salinity to keep water liquid below freezing temperatures, microbes still don't cope well if it gets too cold. Metabolic reactions required for maintaining cell integrity, growing and reproducing grind to a halt below freezing. Big lifeforms can generate enough heat to warm themselves, but microbes can't. They're just too small, their surface-area to voulme ratio just too enormous—that is, relative to their size, microbes have a lot less interior volume that could be used to run heat-producing reactions than external surface area through which any generated heat escapes.
 
 Of course, it's not as though you won't find any microbes in the polar air. You will, but they'll all be hibernating: in order to survive, they form inactive, sturdy spores and bet on warmer conditions arriving before the spore gets too damaged to reactivate—either a seasonal thaw or the warm and toasty gut of a passing animal would do.
 
