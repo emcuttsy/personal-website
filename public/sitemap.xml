@@ -2,28 +2,33 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/tags/boston/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/covid-19/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/denmark/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/grad-school/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/life/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/mit/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/posts/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/2020-09-01-title/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/</loc><lastmod>2020-09-01T19:23:33-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/edx/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/edx-course-review/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/learn-to-code/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/mitx/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/programming/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/python/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/python/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/review/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/2020-08-19-review-mitx-6001-x-introduction-to-computer-science-and-programming-using-python/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/categories/reviews/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/tags/scientific-programming/</loc><lastmod>2020-08-24T14:06:02&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/</loc><lastmod>2020-09-16T13:07:12-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/</loc><lastmod>2020-09-16T13:07:12-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/geobiology/</loc><lastmod>2020-09-16T13:07:12-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/2020-09-16-i-extremophile/</loc><lastmod>2020-09-16T13:07:12-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/microbiology/</loc><lastmod>2020-09-16T13:07:12-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/phylogenomics/</loc><lastmod>2020-09-16T13:07:12-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/posts/</loc><lastmod>2020-09-16T13:07:12-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/</loc><lastmod>2020-09-16T13:07:12-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/boston/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/boston/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/covid-19/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/denmark/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/grad-school/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/life/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/mit/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/2020-09-01-title/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/edx/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/edx-course-review/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/learn-to-code/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/mitx/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/programming/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/python/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/python/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/review/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/2020-08-19-review-mitx-6001-x-introduction-to-computer-science-and-programming-using-python/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/categories/reviews/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/scientific-programming/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/cv/</loc><lastmod>2020-08-07T13:06:01&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>/about/</loc><lastmod>2020-08-07T13:06:01&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/about/</loc><lastmod>2020-09-02T14:01:21-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>/categories/documentation/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
