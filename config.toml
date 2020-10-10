@@ -79,7 +79,7 @@ enableEmoji = true
       # site description
       description = "Elise Cutts' Personal Wesbite"
       # site keywords
-      keywords = ["Person", "Science", "Blog"]
+      keywords = ["Personal Website", "Blog"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -125,10 +125,10 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
+          avatarURL = "./new-avatar.png"
           # title shown in home page (HTML format is supported)
           title = "Hi there, I'm Elise."
-          titlesub = "I'm a geobiology grad student at MIT."
+          titlesub = "I'm a geobiology grad student at MIT who mostly writes about things that aren't geobiology or grad school at MIT."
           
           # subtitle shown in home page
           subtitle = ""
@@ -225,7 +225,7 @@ enableEmoji = true
   # date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = ["/new-avatar.png"]
 
   # Header config
   [params.header]
@@ -457,17 +457,17 @@ enableEmoji = true
       [params.page.seo.publisher]
         name = "Elise Cutts"
         [params.page.seo.publisher.logo]
-          url = "logo.png"
+          url = "new-avatar.png"
           width = 127
           height = 40
       # Logo info
       [params.page.seo.logo]
-        url = "logo.png"
+        url = "new-avatar.png"
         width = 127
         height = 40
       # Image info
       [params.page.seo.image]
-        url = "logo.png"
+        url = "new-avatar.png"
         width = 920
         height = 1000
 

@@ -40,13 +40,129 @@
 }
 
 
-.handwriting{
- font-family: $header-title-font-family; 
- font-size: 1.5rem;
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+
+.single{
+
+  .single-title{
+    font-family: 'Bitter';
+    font-size: 2.5rem;
+    line-height: 110%;
+    font-weight: bold;
+  }
+
+  .single-subtitle{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 1.25rem;
+    color: $global-font-secondary-color;
+
+
+  [theme=dark] & {
+      color: $global-font-secondary-color-dark;
+    }
+  }
+  .post-meta {
+    font-family: 'Roboto';
+    font-size: .9rem;
+  }
+
+  .post-footer{
+    font-family: 'Roboto';
+  }
 }
 
-.signature{
- font-family: $header-title-font-family; 
- font-size: 1.5rem;
- float: right;
+.content{
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Roboto';
+    font-weight: bold;
+    margin: 1.2rem 0;
+
+    [theme=dark] & {
+      font-weight: bolder;
+    }
+  }
+
+blockquote{
+  font-family: 'Bitter';
+  p {
+    font-size: 1.5rem;
+    font-style: italic;
+    line-height: 125%;
+  }
+}
+}
+
+
+
+
+.home {
+  .home-profile {
+
+    .home-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      font-family: 'Bitter';
+    }
+
+    .home-titlesub {
+      font-family: 'Roboto';
+      font-weight: normal;
+      margin-top: .5rem;
+      margin-left: 6rem;
+      margin-right: 6rem;
+      line-height: 1.5rem;
+    }
+  }
+}
+
+
+.home[posts]{
+  .summary {
+    .single-title {
+      font-weight: 700;
+      font-family: Roboto;
+    }
+  }
+}
+
+.footer{
+  font-family: 'Roboto';
+}
+
+.summary .post-footer{
+  font-family: 'Roboto';
+}
+
+
+
+.header-title{
+  font-weight: 700;
+}
+
+.menu{
+  font-family: 'Roboto';
+}
+
+.toc {
+  text-transform: none;
+  font-family: 'Roboto';
 }
