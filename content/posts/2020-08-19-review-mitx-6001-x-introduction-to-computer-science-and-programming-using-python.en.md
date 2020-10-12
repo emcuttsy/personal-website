@@ -6,16 +6,10 @@ date: '2020-08-19'
 slug: review-mitx-6001-x-introduction-to-computer-science-and-programming-using-python
 categories:
   - Reviews
-  - Programming
-  - Python
 tags:
   - review
-  - edX
-  - MITx
   - edX course review
   - Python
-  - scientific programming
-  - learn to code
 subtitle: 'An excellent first step into general Python literacy, but researchers seeking a science-targeted course should look elsewhere'
 lastmod: '2020-08-19T12:18:50+02:00'
 authorLink: ''

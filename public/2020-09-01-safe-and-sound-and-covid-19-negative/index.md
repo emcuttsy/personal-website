@@ -1,27 +1,5 @@
----
-title: Safe and sound and COVID-19 negative back in the US
-author: Elise Cutts
-date: '2020-09-01'
-slug: title
-categories:
-  - Life
-  - Boston
-tags: [covid-19, MIT, grad school, Denmark, Boston]
-subtitle: ''
-lastmod: '2020-09-01T19:23:33-04:00'
-authorLink: ''
-description: ''
-hiddenFromHomePage: no
-hiddenFromSearch: no
-featuredImage: ''
-featuredImagePreview: ''
-toc:
-  enable: no
-math:
-  enable: no
-lightgallery: no
-license: ''
----
+# Safe and sound and COVID-19 negative back in the US
+
 
 Coming to Boston was definitely easier than going to Denmark this summer—at least there wasn't a risk of being turned away at the border—but it also wasn't exactly *easy*. Cancelled flights, state travel rules, booked-up COVID-19 test centers, and layer upon layer of MIT pandemic policy made it all a bit more complicated than I anticipated.
 
