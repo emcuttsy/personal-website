@@ -25,7 +25,7 @@ lightgallery: false
 license: ""
 ---
 
-After finishing Duolingo German, I started making digital flashcards so that I'd have something to keep my iThumbs occupied through corona lockdown better than scrolling through the reams of international and domestic horrors served up by my newsfeed. And after months of experimenting with Anki and looking into popular German vocabulary sets online, [this 1000-word flashcard deck of core German vocabulary](https://ankiweb.net/shared/info/1877324510)   is the result. 
+After finishing Duolingo German, I started making digital flashcards so that I'd have something to keep my iThumbs occupied through corona lockdown better than scrolling through the reams of international and domestic horrors served up by my newsfeed. I ended up spending months of experimenting with Anki and looking into popular German vocabulary sets online, and [this 1000-word flashcard deck of core German vocabulary](https://ankiweb.net/shared/info/1877324510)  is the result. 
 
 <!--more-->
 
