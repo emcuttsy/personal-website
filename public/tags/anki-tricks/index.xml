@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>anki tricks - Tag - Elise Cutts</title>
+        <link>https://elisecutts.com/tags/anki-tricks/</link>
+        <description>anki tricks - Tag - Elise Cutts</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
+            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 31 Oct 2020 05:03:42 -0400</lastBuildDate><atom:link href="https://elisecutts.com/tags/anki-tricks/" rel="self" type="application/rss+xml" /><item>
+    <title>Conditional Formatting Anki Cards Based on Field Contents</title>
+    <link>https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/</link>
+    <pubDate>Sat, 31 Oct 2020 05:03:42 -0400</pubDate>
+    <author>Author</author>
+    <guid>https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/</guid>
+    <description><![CDATA[<p>Anki allows conditoinal formatting based on whether or not fields are empty, but you&rsquo;ll need to use a bit of code to change your cards based on field <em>content.</em> Luckily, it&rsquo;s not that hard, and using this trick you can conditionally display text as well.</p>]]></description>
+</item></channel>
+</rss>

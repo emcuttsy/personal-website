@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>Conditional Formatting Anki Cards Based on Field Contents - Elise Cutts</title><meta name="Description" content="Elise Cutts&#39; Personal Wesbite"><meta property="og:title" content="Conditional Formatting Anki Cards Based on Field Contents" />
+<meta property="og:description" content="Anki allows conditoinal formatting based on whether or not fields are empty, but you&rsquo;ll need to use a bit of code to change your cards based on field content. Luckily, it&rsquo;s not that hard, and using this trick you can conditionally display text as well." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/" />
+<meta property="og:image" content="https://elisecutts.com/new-avatar.png"/>
+<meta property="article:published_time" content="2020-10-31T05:03:42-04:00" />
+<meta property="article:modified_time" content="2020-10-31T05:03:42-04:00" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://elisecutts.com/new-avatar.png"/>
+
+<meta name="twitter:title" content="Conditional Formatting Anki Cards Based on Field Contents"/>
+<meta name="twitter:description" content="Anki allows conditoinal formatting based on whether or not fields are empty, but you&rsquo;ll need to use a bit of code to change your cards based on field content. Luckily, it&rsquo;s not that hard, and using this trick you can conditionally display text as well."/>
+<meta name="application-name" content="Elise Cutts">
+<meta name="apple-mobile-web-app-title" content="Elise Cutts"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/" /><link rel="prev" href="https://elisecutts.com/2020-10-11-1000-word-german-flashcard-deck/" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"><meta name="google-site-verification" content="_-Jgg8Mc2ALPfXvFtgBEEBU2eAr_1CA1GBGvFhY6KXM" /><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Conditional Formatting Anki Cards Based on Field Contents",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/elisecutts.com\/conditional-formatting-anki-cards-based-on-field-contents\/"
+        },"image": {
+                "@type": "ImageObject",
+                "url": "https:\/\/elisecutts.com\/new-avatar.png",
+                "width":  920 ,
+                "height":  1000 
+            },"genre": "posts","keywords": "german flashcards, anki tricks, solo language learning","wordcount":  530 ,
+        "url": "https:\/\/elisecutts.com\/conditional-formatting-anki-cards-based-on-field-contents\/","datePublished": "2020-10-31T05:03:42-04:00","dateModified": "2020-10-31T05:03:42-04:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+                "@type": "Organization",
+                "name": "Elise Cutts",
+                "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/elisecutts.com\/new-avatar.png",
+                "width":  127 ,
+                "height":  40 
+                }
+            },"author": {
+                "@type": "Person",
+                "name": "Elise Cutts"
+            },"description": ""
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Elise Cutts">Elise Cutts</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> Posts </a><a class="menu-item" href="/tags/"> Tags </a><a class="menu-item" href="/categories/"> Categories </a><a class="menu-item" href="/about/"> About </a><a class="menu-item" href="/cv/"> CV </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Elise Cutts">Elise Cutts</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        Cancel
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">Posts</a><a class="menu-item" href="/tags/" title="">Tags</a><a class="menu-item" href="/categories/" title="">Categories</a><a class="menu-item" href="/about/" title="">About</a><a class="menu-item" href="/cv/" title="">CV</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><article class="page single"><h1 class="single-title animated flipInX">Conditional Formatting Anki Cards Based on Field Contents</h1><h2 class="single-subtitle">An easy trick I used to automatically color-code my German flashcards based on noun gender</h2><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Elise Cutts</a></span>&nbsp;<span class="post-category">included in <a href="/categories/german/"><i class="far fa-folder fa-fw"></i>German</a>&nbsp;<a href="/categories/anki/"><i class="far fa-folder fa-fw"></i>Anki</a>&nbsp;<a href="/categories/code-drabbles/"><i class="far fa-folder fa-fw"></i>Code Drabbles</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-10-31">2020-10-31</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;530 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;3 minutes&nbsp;</div>
+        </div><div class="content" id="content"><p>Anki allows conditoinal formatting based on whether or not fields are empty, but you&rsquo;ll need to use a bit of code to change your cards based on field <em>content.</em> Luckily, it&rsquo;s not that hard, and using this trick you can conditionally display text as well.</p>
+<p>I wrote a bit about Anki in my last post, since I used it to make my <a href="https://elisecutts.com/2020-10-11-1000-word-german-flashcard-deck/" rel="">1000-word German flashcard deck</a>. For those who don&rsquo;t already know, Anki is a popular open-source flashcard program that&rsquo;s built on the spaced repetition method.</p>
+<p>As I mentioned above, Anki provides an easy way to conditionally format based on whether fields are empty or not. But since I wanted to color-code my German noun flashcards based on gender, using the built-in system wasn&rsquo;t going to work elegantly. So, I did some looking around and was eventually able to figure out how to achieve conditional formatting using a little JavaScript and HTML/CSS. You can use a similar trick both to change CSS styling and to display text (which can be different than the text in your field).</p>
+<hr>
+<h2 id="conditional-formatting-and-text-display-based-on-field-content">Conditional formatting and text display based on field content</h2>
+<p><strong>How it works:</strong> The area to be formatted is defined in HTML with <code>&lt;span&gt;</code>. Javascript checks if some condition (I use <code>==</code> in the example below but you could use something else) is met based on the contents of your note&rsquo;s field. If the condition is satisfied, the CSS class of the span is changed to a class of your choosing defined in the Styling shared between cards using <code>document.getElementById().classList.add()</code>. Conditional input of text works in a similar way, but instead of changing the class of the <code>&lt;span&gt;</code> it uses <code>document.getElementById().innerHTML</code> to place the desired text within it.</p>
+<p><strong>Card Front/Back Template</strong></p>
+<pre><code>&lt;!-- conditional formatting--&gt;
+&lt;span id = 'formatted_area'&gt;
+    &lt;!-- content to be formatted here --&gt;
+&lt;/span&gt;
+
+&lt;!-- conditional text--&gt;
+&lt;span id = 'conditional_text'&gt;&lt;/span&gt;
+
+&lt;script&gt;
+    if('{{conditioning_field1}}' == 'condition1'){
+      document.getElementByID('formatted_area').classList.add('style')
+    };
+    if('{{conditioning_field2}}' == 'condition2'){
+      document.getElementById('conditional_text').innerHTML = 'new text'
+    };
+&lt;/script&gt;
+</code></pre>
+<p><strong>Styling (shared between cards)</strong></p>
+<pre><code>.card{
+/* card style */
+}
+
+.condition{
+   /* condition style */
+}
+</code></pre>
+<h2 id="example-german-noun-article-and-highlight-color-conditioned-by-gender-and-number">Example: German noun article and highlight color conditioned by gender (and number)</h2>
+<p>This is a simplified version of one the card templates I use with my &lsquo;German noun&rsquo; note type. It displays the noun with its color-coded article and its plural, if it has one and isn&rsquo;t plural-only. The conditions are based on a field called &lsquo;Gender&rsquo;, which I set as either &rsquo;m', &lsquo;f&rsquo;, &lsquo;n&rsquo;, or &lsquo;p&rsquo; for masculine, feminine, neuter, and plural-only nouns.</p>
+<p><strong>Card Front</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">big</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">span</span> <span class="na">id</span><span class="o">=</span><span class="s">&#39;gender&#39;</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">span</span> <span class="na">id</span><span class="o">=</span><span class="s">&#39;article&#39;</span><span class="p">&gt;&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>
+    {{German}}
+<span class="p">&lt;/</span><span class="nt">big</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">br</span><span class="p">&gt;</span>
+
+{{#Plural}}
+<span class="p">&lt;</span><span class="nt">small</span><span class="p">&gt;</span>die {{Plural}}<span class="p">&lt;/</span><span class="nt">small</span><span class="p">&gt;</span>
+{{/Plural}}
+
+<span class="p">&lt;</span><span class="nt">script</span><span class="p">&gt;</span>
+    <span class="k">if</span><span class="p">(</span><span class="s1">&#39;{{Gender}}&#39;</span> <span class="o">==</span> <span class="s1">&#39;m&#39;</span><span class="p">){</span>
+        <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;gender&#39;</span><span class="p">).</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;m&#39;</span><span class="p">)</span>
+		<span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;article&#39;</span><span class="p">).</span><span class="nx">innerHTML</span><span class="o">=</span> <span class="s1">&#39;der&#39;</span>	
+    <span class="p">};</span>
+    
+    <span class="k">if</span><span class="p">(</span><span class="s1">&#39;{{Gender}}&#39;</span> <span class="o">==</span> <span class="s1">&#39;n&#39;</span><span class="p">){</span>
+        <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;gender&#39;</span><span class="p">).</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;n&#39;</span><span class="p">)</span>
+		<span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;article&#39;</span><span class="p">).</span><span class="nx">innerHTML</span><span class="o">=</span> <span class="s1">&#39;das&#39;</span>	
+    <span class="p">};</span>
+    
+    <span class="k">if</span><span class="p">(</span><span class="s1">&#39;{{Gender}}&#39;</span> <span class="o">==</span> <span class="s1">&#39;f&#39;</span><span class="p">){</span>
+        <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;gender&#39;</span><span class="p">).</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;f&#39;</span><span class="p">)</span>
+		<span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;article&#39;</span><span class="p">).</span><span class="nx">innerHTML</span><span class="o">=</span> <span class="s1">&#39;die&#39;</span>	
+    <span class="p">};</span>
+    
+    <span class="k">if</span><span class="p">(</span><span class="s1">&#39;{{Gender}}&#39;</span> <span class="o">==</span> <span class="s1">&#39;p&#39;</span><span class="p">){</span>
+        <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;gender&#39;</span><span class="p">).</span><span class="nx">classList</span><span class="p">.</span><span class="nx">add</span><span class="p">(</span><span class="s1">&#39;p&#39;</span><span class="p">)</span>
+		<span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;article&#39;</span><span class="p">).</span><span class="nx">innerHTML</span><span class="o">=</span> <span class="s1">&#39;die&#39;</span>	
+    <span class="p">};</span>
+<span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>Styling (shared between cards)</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-css" data-lang="css"><span class="p">.</span><span class="nc">m</span> <span class="p">{</span>
+<span class="k">color</span><span class="p">:</span> <span class="kc">royalblue</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">f</span> <span class="p">{</span>
+<span class="k">color</span><span class="p">:</span> <span class="kc">palevioletred</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">n</span><span class="p">{</span>
+<span class="k">color</span><span class="p">:</span> <span class="kc">goldenrod</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nc">p</span><span class="p">{</span>
+<span class="k">color</span><span class="p">:</span> <span class="kc">black</span>
+<span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div></div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2020-10-31</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"><span>
+                            <a class="link-to-markdown" href="/conditional-formatting-anki-cards-based-on-field-contents/index.md" target="_blank">Read Markdown</a>
+                        </span></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/" data-title="Conditional Formatting Anki Cards Based on Field Contents" data-hashtags="german flashcards,anki tricks,solo language learning"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/" data-hashtag="german flashcards"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/"><i class="fab fa-linkedin fa-fw"></i></a><a href="javascript:void(0);" title="Share on WhatsApp" data-sharer="whatsapp" data-url="https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/" data-title="Conditional Formatting Anki Cards Based on Field Contents" data-web><i class="fab fa-whatsapp fa-fw"></i></a><a href="javascript:void(0);" title="Share on Reddit" data-sharer="reddit" data-url="https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/"><i class="fab fa-reddit fa-fw"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/german-flashcards/">german flashcards</a>,&nbsp;<a href="/tags/anki-tricks/">anki tricks</a>,&nbsp;<a href="/tags/solo-language-learning/">solo language learning</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/2020-10-11-1000-word-german-flashcard-deck/" class="prev" rel="prev" title="1000-word German flashcard deck"><i class="fas fa-angle-left fa-fw"></i>1000-word German flashcard deck</a></div>
+</div>
+<div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.75.1">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.9"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Elise Cutts</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><script type="text/javascript" src="https://elisecutts.disqus.com/embed.js" defer></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/smooth-scroll@16.1.3/dist/smooth-scroll.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.37.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.2.0/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.4.0/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","maxResultLength":10,"noResultsFound":"No results found","snippetLength":30,"type":"lunr"}};</script><script type="text/javascript" src="/js/theme.min.js"></script><script type="text/javascript">
+            window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());
+            gtag('config', 'UA-172705638-1', { 'anonymize_ip': true });
+        </script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-172705638-1" async></script></body>
+</html>

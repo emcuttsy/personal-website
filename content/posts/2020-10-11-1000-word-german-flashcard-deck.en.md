@@ -8,7 +8,7 @@ author: ""
 authorLink: ""
 description: ""
 
-tags:  [anki, german flashcards]
+tags: [german flashcards, anki resources, solo language learning]
 categories: [German, Anki]
 
 hiddenFromHomePage: false

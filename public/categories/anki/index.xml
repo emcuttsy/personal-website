@@ -4,12 +4,19 @@
         <link>https://elisecutts.com/categories/anki/</link>
         <description>Anki - Category - Elise Cutts</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
-            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 11 Oct 2020 21:06:18 -0400</lastBuildDate><atom:link href="https://elisecutts.com/categories/anki/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 31 Oct 2020 05:03:42 -0400</lastBuildDate><atom:link href="https://elisecutts.com/categories/anki/" rel="self" type="application/rss+xml" /><item>
+    <title>Conditional Formatting Anki Cards Based on Field Contents</title>
+    <link>https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/</link>
+    <pubDate>Sat, 31 Oct 2020 05:03:42 -0400</pubDate>
+    <author>Author</author>
+    <guid>https://elisecutts.com/conditional-formatting-anki-cards-based-on-field-contents/</guid>
+    <description><![CDATA[<p>Anki allows conditoinal formatting based on whether or not fields are empty, but you&rsquo;ll need to use a bit of code to change your cards based on field <em>content.</em> Luckily, it&rsquo;s not that hard, and using this trick you can conditionally display text as well.</p>]]></description>
+</item><item>
     <title>1000-word German flashcard deck</title>
     <link>https://elisecutts.com/2020-10-11-1000-word-german-flashcard-deck/</link>
     <pubDate>Sun, 11 Oct 2020 21:06:18 -0400</pubDate>
     <author>Author</author>
     <guid>https://elisecutts.com/2020-10-11-1000-word-german-flashcard-deck/</guid>
-    <description><![CDATA[<p>After finishing Duolingo German, I started making digital flashcards so that I&rsquo;d have something to keep my iThumbs occupied through corona lockdown better than scrolling through the reams of international and domestic horrors served up by my newsfeed. And after months of experimenting with Anki and looking into popular German vocabulary sets online, <a href="https://ankiweb.net/shared/info/1877324510" target="_blank" rel="noopener noreffer">this 1000-word flashcard deck of core German vocabulary</a>   is the result.</p>]]></description>
+    <description><![CDATA[<p>After finishing Duolingo German, I started making digital flashcards so that I&rsquo;d have something to keep my iThumbs occupied through corona lockdown better than scrolling through the reams of international and domestic horrors served up by my newsfeed. I ended up spending months of experimenting with Anki and looking into popular German vocabulary sets online, and <a href="https://ankiweb.net/shared/info/1877324510" target="_blank" rel="noopener noreffer">this 1000-word flashcard deck of core German vocabulary</a>  is the result.</p>]]></description>
 </item></channel>
 </rss>
