@@ -10,7 +10,7 @@ description: ""
 
 tags: [german flashcards, anki tricks, solo language learning]
 categories: [German, Anki, Code Drabbles]
-hiddenFromHomePage: false
+hiddenFromHomePage:false
 hiddenFromSearch: false
 
 featuredImage: ""
