@@ -10,7 +10,7 @@ description: ""
 
 tags: [german flashcards, anki tricks, solo language learning]
 categories: [German, Anki, Code Drabbles]
-hiddenFromHomePage:false
+hiddenFromHomePage: false
 hiddenFromSearch: false
 
 featuredImage: ""
@@ -27,6 +27,12 @@ license: ""
 Anki allows conditoinal formatting based on whether or not fields are empty, but you'll need to use a bit of code to change your cards based on field *content.* Luckily, it's not that hard, and using this trick you can conditionally display text as well.
 
 <!--more-->
+
+{{< admonition type=info title="Update" open=true >}}
+
+I've expanded and improved this post for [my new language blog, Monoglot Anxiety](www.monoglotanxiety.com). I decided it was best to separate my language hobby from my personal homepage, so all future posts on German, Anki, etc. will be there. [Check out the new version there](https://www.monoglotanxiety.com/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/).
+
+{{< /admonition >}}
 
 I wrote a bit about Anki in my last post, since I used it to make my [1000-word German flashcard deck]({{<ref "2020-10-11-1000-word-german-flashcard-deck/">}}). For those who don't already know, Anki is a popular open-source flashcard program that's built on the spaced repetition method.
 

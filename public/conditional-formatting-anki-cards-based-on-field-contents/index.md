@@ -5,6 +5,12 @@ Anki allows conditoinal formatting based on whether or not fields are empty, but
 
 <!--more-->
 
+{{< admonition type=info title="Update" open=true >}}
+
+I've expanded and improved this post for [my new language blog, Monoglot Anxiety](www.monoglotanxiety.com). I decided it was best to separate my language hobby from my personal homepage, so all future posts on German, Anki, etc. will be there. [Check out the new version there](https://www.monoglotanxiety.com/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/).
+
+{{< /admonition >}}
+
 I wrote a bit about Anki in my last post, since I used it to make my [1000-word German flashcard deck]({{<ref "2020-10-11-1000-word-german-flashcard-deck/">}}). For those who don't already know, Anki is a popular open-source flashcard program that's built on the spaced repetition method.
 
 As I mentioned above, Anki provides an easy way to conditionally format based on whether fields are empty or not. But since I wanted to color-code my German noun flashcards based on gender, using the built-in system wasn't going to work elegantly. So, I did some looking around and was eventually able to figure out how to achieve conditional formatting using a little JavaScript and HTML/CSS. You can use a similar trick both to change CSS styling and to display text (which can be different than the text in your field).
