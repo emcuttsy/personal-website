@@ -74,7 +74,7 @@ enableEmoji = true
         name = "About"
         url = "/About/"
         title = ""
-        weight = 4     
+        weight = 4
     [languages.en.params]
       # site description
       description = "Elise Cutts' Personal Wesbite"
@@ -128,8 +128,8 @@ enableEmoji = true
           avatarURL = "./new-avatar.png"
           # title shown in home page (HTML format is supported)
           title = "Hi there, I'm Elise."
-          titlesub = "I'm a geobiology grad student at MIT who mostly writes about things that aren't geobiology or grad school at MIT."
-          
+          titlesub = "I'm a geobiology grad student at MIT who sometimes writes about geobiology and MIT. More often, I write nonsense for my language blog, <u><a href='www.monoglotanxiety.com'>Monoglot Anxiety</a></u>. Thanks for visiting!"
+
           # subtitle shown in home page
           subtitle = ""
           # whether to use typeit animation for subtitle
@@ -208,7 +208,7 @@ enableEmoji = true
         Bilibili = ""
         Email = "me@elisecutts.com"
         RSS = true
-          
+
 
 #To add another language, copy from above and change the language code
 #The language code for german is de.
@@ -303,7 +303,7 @@ enableEmoji = true
     # whether to show the full text content in RSS
     rssFullText = false
     # Table of the contents config
-    
+
     [params.page.toc]
       # whether to enable the table of the contents
       enable = true
