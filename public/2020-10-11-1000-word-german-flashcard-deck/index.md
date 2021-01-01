@@ -1,6 +1,18 @@
 # 1000-word German flashcard deck
 
 
+
+
+{{< admonition type=info title="Update" open=true >}}
+
+I've kept working on my Anki card format and now have a much better template than the one I use in this deck. My new template **automatically generates cloze deletions based on example sentences** (no need to make separate notes for clozes or make "fake" clozes on basic cards by hand) and **color-codes nouns by gender** using conditional formatting. 
+
+[Check out the template](https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/), or read my post about [conditional formatting in Anki based on field contents](https://www.monoglotanxiety.com/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/).
+
+You can find those posts on [my language blog, Monoglot Anxiety](www.monoglotanxiety.com). I decided it was best to separate my language hobby from my personal homepage, so all future German/Anki posts will be there.
+
+{{< /admonition >}}
+
 After finishing Duolingo German, I started making digital flashcards so that I'd have something to keep my iThumbs occupied through corona lockdown better than scrolling through the reams of international and domestic horrors served up by my newsfeed. I ended up spending months of experimenting with Anki and looking into popular German vocabulary sets online, and [this 1000-word flashcard deck of core German vocabulary](https://ankiweb.net/shared/info/1877324510)  is the result. 
 
 <!--more-->
