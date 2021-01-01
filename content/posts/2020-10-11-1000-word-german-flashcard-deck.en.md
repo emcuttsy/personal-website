@@ -27,9 +27,11 @@ license: ""
 
 
 
-{{< admonition type=info title="Update" open=true >}}
+{{< admonition type=info title="Update: improved card format available at [www.monoglotanxiety.com](https://www.monoglotanxiety.com)" open=true >}}
 
-I've kept working on my Anki card format and now have a much better template than the one I use in this deck. My new template **automatically generates cloze deletions based on example sentences** (no need to make separate notes for clozes or make "fake" clozes on basic cards by hand) and **color-codes nouns by gender** using conditional formatting. 
+I've kept working on my Anki card format and now have a much better template than the one I use in this deck. 
+
+My new template <u>**automatically generates cloze deletions based on example sentences**</u> (no need to make separate notes for clozes or make "fake" clozes on basic cards by hand) and <u>**color-codes nouns by gender**</u> using conditional formatting. 
 
 [Check out the template](https://www.monoglotanxiety.com/blog/anki-format-for-german-that-automatically-generates-cloze-deletions-and-color-codes-nouns/), or read my post about [conditional formatting in Anki based on field contents](https://www.monoglotanxiety.com/blog/conditional-formatting-based-on-field-content-for-anki-flashcards/).
 
