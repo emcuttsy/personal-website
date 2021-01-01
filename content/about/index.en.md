@@ -25,7 +25,11 @@ comment:
 
 <br>
 
+<center>
+
 ![](images/me_geologisthat.jpg)
+
+</center>
 
 I'm a first-year geobiology PhD student at MIT in the [Bosak Group](http://bosaklab.scripts.mit.edu/). My scientific interests are broadly in the ongoing and historical interactions between life and the Earth, especially when it comes to microbial life and Earth's surface environmental conditions. Right now, I'm using metagenomics to study the microbial community of Shark Bay microbial mats with an eye on sulfatases.
 
