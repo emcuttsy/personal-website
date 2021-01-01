@@ -3,7 +3,7 @@
 
 
 
-{{< admonition type=info title="Update: improved card format available www.monoglotanxiety.com" open=true >}}
+{{< admonition type=info title="Update: improved card format available" open=true >}}
 
 I've kept working on my Anki card format and now have a much better template than the one I use in this deck. 
 
