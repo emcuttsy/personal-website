@@ -128,7 +128,7 @@ enableEmoji = true
           avatarURL = "./new-avatar.png"
           # title shown in home page (HTML format is supported)
           title = "Hi there, I'm Elise."
-          titlesub = "I'm a geobiology grad student at MIT who sometimes writes about geobiology and MIT. More often, I write nonsense for my language blog, <u><a href='www.monoglotanxiety.com'>Monoglot Anxiety</a></u>. Thanks for visiting!"
+          titlesub = "I'm a geobiology grad student at MIT who sometimes writes about geobiology and MIT. More often, I write nonsense for my language blog, <u><a href='http://www.monoglotanxiety.com'>Monoglot Anxiety</a></u>. Thanks for visiting!"
 
           # subtitle shown in home page
           subtitle = ""
