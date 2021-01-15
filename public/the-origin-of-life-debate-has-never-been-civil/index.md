@@ -1,4 +1,4 @@
-# The Origin of Life Debate Has Never Been Civil
+# The origin of life debate has never been civil
 
 
 The public origin of life debate sometimes feels like a parallel universe to the scientific one. And in many ways, it really is a parallel debate.—the big questions have almost nothing to do with one antoher and, more fundamentally, the battle raging beyond the ivory tower has more to do with faith than research. According to a 2019 Gallup poll, 40% of Americans believe that God created humans in their current form no more than about 10,000 years ago. And if that's your view, it doesn't much matter whether the person you're debating thinks that life got started at a hydrothermal vent on the bottom of the ocean or in a warm little pond of primordial soup. That's just not the point.

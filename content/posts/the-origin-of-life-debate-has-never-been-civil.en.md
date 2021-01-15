@@ -1,5 +1,5 @@
 ---
-title: "The Origin of Life Debate Has Never Been Civil"
+title: "The origin of life debate has never been civil"
 subtitle: "One of the most interesting questions in science, the question of life's origins has been a can of worms since before we could agree where worms come from"
 date: 2021-01-14T21:37:36-07:00
 lastmod: 2021-01-14T21:37:36-07:00
