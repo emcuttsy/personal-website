@@ -75,7 +75,7 @@ Even acknowledging the important social stakes of the Pasteur-Pouchet debate, th
 
 <br>
 
-The Klein biography goes on, spilling generous ink to paint this scholarly debate in belligerent terms. And while the author tends towards hyperbole, he doesn't discuss Pasteur's other discoveries in the same wartime vocabulary. And even in more sober retellings, there's no doubt that eventually the situation drew the attention of the French Academy of Sciences, which decided to force a resolution.
+The Keim biography goes on, spilling generous ink to paint this scholarly debate in belligerent terms. And while the author tends towards hyperbole, he doesn't discuss Pasteur's other discoveries in the same wartime vocabulary. And even in more sober retellings, there's no doubt that eventually the situation drew the attention of the French Academy of Sciences, which decided to force a resolution.
 
 > The conflict assumed epic proportions. The sessions of the Academy of Sciences caught the echoes of it, each theory having its partizans, and each experimenter his enemies. 
 >
@@ -83,6 +83,6 @@ The Klein biography goes on, spilling generous ink to paint this scholarly debat
 
 In 1862, the Academy announced a prize to go the researcher whose results, as judged by an Academy committee, best addressed the question of spontaneous generation. When Pasteur was declared the winner in 1862, spontaneous generation was essentially declared disproven by one of the most important scientific bodies in Europe. 
 
-According to Klein, Pouchet and his chums refused to accept even this defeat and demanded one last chance to run their experiments for the Academy before mysteriously dropping the issue at the last minute on the day planned for the trials. Final humiliation for Pouchet or no, "after a hard campaign of several years Pasteur was at last triumphant." 
+According to Keim, Pouchet and his chums refused to accept even this defeat and demanded one last chance to run their experiments for the Academy before mysteriously dropping the issue at the last minute on the day planned for the trials. Final humiliation for Pouchet or no, "after a hard campaign of several years Pasteur was at last triumphant." 
 
 Some of the historical Pasteur-Pouchet clash echoes in today's disputes on the origin of life. And most tellingly in my mind, so has the public interest. True, public interest in the origin of life may have more closely reflected the actual state of research on spontaneous generation in Pasteur's day than today's mainly creationism-evolution oriented public origin of life debate tracks with modern scientific thought on the origin of life. But  the core of that broader appeal is the same: the origin of life is a question that reaches far beyond the laboratory and touches that deeply human hunger to know where we come from and why we're here. When we ask why debates on the origin of life within science sometimes get as heated as they do, it might help to remember that scientists feel that hunger too.
