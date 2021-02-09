@@ -5,17 +5,17 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-        <title>Convert Pandas Dataframe to Presence Absence - Elise Cutts</title><meta name="Description" content="Elise Cutts&#39; Personal Wesbite"><meta property="og:title" content="Convert Pandas Dataframe to Presence Absence" />
+        <title>Convert pandas Dataframe to presence-absence - Elise Cutts</title><meta name="Description" content="Elise Cutts&#39; Personal Wesbite"><meta property="og:title" content="Convert pandas Dataframe to presence-absence" />
 <meta property="og:description" content="It&rsquo;s not uncommon in statistical analysis of sequence data to think in terms of presence-absence instead of quantity. In this quick little post, I walk through how to convert a pandas DataFrame of numerical values to one containing 1s and 0s representing presence/absence. I also show how to do this in R, for all you R people." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/" />
 <meta property="og:image" content="https://elisecutts.com/new-avatar.png"/>
 <meta property="article:published_time" content="2021-02-08T17:39:18-07:00" />
-<meta property="article:modified_time" content="2021-02-08T18:54:32-07:00" />
+<meta property="article:modified_time" content="2021-02-08T18:55:35-07:00" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://elisecutts.com/new-avatar.png"/>
 
-<meta name="twitter:title" content="Convert Pandas Dataframe to Presence Absence"/>
+<meta name="twitter:title" content="Convert pandas Dataframe to presence-absence"/>
 <meta name="twitter:description" content="It&rsquo;s not uncommon in statistical analysis of sequence data to think in terms of presence-absence instead of quantity. In this quick little post, I walk through how to convert a pandas DataFrame of numerical values to one containing 1s and 0s representing presence/absence. I also show how to do this in R, for all you R people."/>
 <meta name="application-name" content="Elise Cutts">
 <meta name="apple-mobile-web-app-title" content="Elise Cutts"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
@@ -24,7 +24,7 @@
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
-        "headline": "Convert Pandas Dataframe to Presence Absence",
+        "headline": "Convert pandas Dataframe to presence-absence",
         "inLanguage": "en",
         "mainEntityOfPage": {
             "@type": "WebPage",
@@ -34,8 +34,8 @@
                 "url": "https:\/\/elisecutts.com\/new-avatar.png",
                 "width":  920 ,
                 "height":  1000 
-            },"genre": "posts","keywords": "Python, R, bioinformatics","wordcount":  524 ,
-        "url": "https:\/\/elisecutts.com\/convert-pandas-dataframe-to-presence-absence\/","datePublished": "2021-02-08T17:39:18-07:00","dateModified": "2021-02-08T18:54:32-07:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+            },"genre": "posts","keywords": "Python, R, bioinformatics","wordcount":  526 ,
+        "url": "https:\/\/elisecutts.com\/convert-pandas-dataframe-to-presence-absence\/","datePublished": "2021-02-08T17:39:18-07:00","dateModified": "2021-02-08T18:55:35-07:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
                 "@type": "Organization",
                 "name": "Elise Cutts",
                 "logo": {
@@ -113,9 +113,9 @@
     <div id="search-dropdown-mobile"></div>
 </div>
 <main class="main">
-                <div class="container"><article class="page single"><h1 class="single-title animated flipInX">Convert Pandas Dataframe to Presence Absence</h1><h2 class="single-subtitle">A quick way to convert a pandas DataFrame of numerical values to a presence/absence (1/0) table</h2><div class="post-meta">
+                <div class="container"><article class="page single"><h1 class="single-title animated flipInX">Convert pandas Dataframe to presence-absence</h1><h2 class="single-subtitle">A quick way to convert a pandas DataFrame of numerical values to a presence/absence (1/0) table</h2><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Elise Cutts</a></span>&nbsp;<span class="post-category">included in <a href="/categories/code-drabbles/"><i class="far fa-folder fa-fw"></i>Code Drabbles</a>&nbsp;<a href="/categories/bioinformatics/"><i class="far fa-folder fa-fw"></i>Bioinformatics</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-02-08">2021-02-08</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;524 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-02-08">2021-02-08</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;526 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;3 minutes&nbsp;</div>
         </div><div class="content" id="content"><p>It&rsquo;s not uncommon in statistical analysis of sequence data to think in terms of presence-absence instead of quantity. In this quick little post, I walk through how to convert a pandas DataFrame of numerical values to one containing 1s and 0s representing presence/absence. I also show how to do this in R, for all you R people.</p>
 <p>But first, why convert a numerical dataset to a binary presence-absence table?</p>
@@ -137,7 +137,7 @@
 <pre class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">df[df &gt; 0] = 1
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">df</span><span class="p">[</span><span class="n">df</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span>
 </code></pre></td></tr></table>
 </div>
 </div><p>So, pretty much the same. This could easily be adapted to set thresholds for presence/absence—say, only values of 0.5 and higher might be considered &ldquo;presence&rdquo; or all nonzero values including negative numbers could be considered &ldquo;presence.&rdquo; Just change up the conditional to fit your needs.</p>
@@ -174,9 +174,11 @@
 </span><span class="lnt">16
 </span><span class="lnt">17
 </span><span class="lnt">18
+</span><span class="lnt">19
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span><span class="s1">&#39;Gene A&#39;</span><span class="p">:[</span><span class="mi">3</span><span class="p">,</span><span class="mi">10</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">],</span> <span class="s1">&#39;Gene B&#39;</span><span class="p">:[</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">],</span> <span class="s1">&#39;Gene C&#39;</span><span class="p">:[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">13</span><span class="p">,</span><span class="mi">2</span><span class="p">]},</span><span class="n">index</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;species_1&#39;</span><span class="p">,</span> <span class="s1">&#39;species_2&#39;</span><span class="p">,</span> <span class="s1">&#39;species_3&#39;</span><span class="p">,</span> <span class="s1">&#39;species_4&#39;</span><span class="p">,</span> <span class="s1">&#39;species_5&#39;</span><span class="p">])</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span><span class="s1">&#39;Gene A&#39;</span><span class="p">:[</span><span class="mi">3</span><span class="p">,</span><span class="mi">10</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">],</span> <span class="s1">&#39;Gene B&#39;</span><span class="p">:[</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">],</span> <span class="s1">&#39;Gene C&#39;</span><span class="p">:[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">13</span><span class="p">,</span><span class="mi">2</span><span class="p">]},</span>
+                  <span class="n">index</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;species_1&#39;</span><span class="p">,</span> <span class="s1">&#39;species_2&#39;</span><span class="p">,</span> <span class="s1">&#39;species_3&#39;</span><span class="p">,</span> <span class="s1">&#39;species_4&#39;</span><span class="p">,</span> <span class="s1">&#39;species_5&#39;</span><span class="p">])</span>
 
 <span class="o">&gt;&gt;&gt;</span>            <span class="n">Gene</span> <span class="n">A</span>  <span class="n">Gene</span> <span class="n">B</span>  <span class="n">Gene</span> <span class="n">C</span>
 <span class="n">species_1</span>       <span class="mi">3</span>       <span class="mi">2</span>       <span class="mi">0</span>
@@ -200,8 +202,8 @@
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>Updated on 2021-02-08&nbsp;<a class="git-hash" href="https://github.com/emcuttsy/personal-website/commit/69f6aa8eb2b58a0d5506f42f45ddb63ccd57615f" target="_blank" title="commit by Elise(elise.m.cutts@gmail.com) 69f6aa8eb2b58a0d5506f42f45ddb63ccd57615f: code drabble">
-                                    <i class="fas fa-hashtag fa-fw"></i>69f6aa8</a></span>
+                <span>Updated on 2021-02-08&nbsp;<a class="git-hash" href="https://github.com/emcuttsy/personal-website/commit/4ede087e8e1b36f622bcfa2866971c3400db0d5a" target="_blank" title="commit by Elise(elise.m.cutts@gmail.com) 4ede087e8e1b36f622bcfa2866971c3400db0d5a: undraft">
+                                    <i class="fas fa-hashtag fa-fw"></i>4ede087</a></span>
             </div>
             <div class="post-info-license"></div>
         </div>
@@ -210,7 +212,7 @@
                             <a class="link-to-markdown" href="/convert-pandas-dataframe-to-presence-absence/index.md" target="_blank">Read Markdown</a>
                         </span></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/" data-title="Convert Pandas Dataframe to Presence Absence" data-hashtags="Python,R,bioinformatics"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/" data-hashtag="Python"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/"><i class="fab fa-linkedin fa-fw"></i></a><a href="javascript:void(0);" title="Share on WhatsApp" data-sharer="whatsapp" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/" data-title="Convert Pandas Dataframe to Presence Absence" data-web><i class="fab fa-whatsapp fa-fw"></i></a><a href="javascript:void(0);" title="Share on Reddit" data-sharer="reddit" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/"><i class="fab fa-reddit fa-fw"></i></a></span>
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/" data-title="Convert pandas Dataframe to presence-absence" data-hashtags="Python,R,bioinformatics"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/" data-hashtag="Python"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/"><i class="fab fa-linkedin fa-fw"></i></a><a href="javascript:void(0);" title="Share on WhatsApp" data-sharer="whatsapp" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/" data-title="Convert pandas Dataframe to presence-absence" data-web><i class="fab fa-whatsapp fa-fw"></i></a><a href="javascript:void(0);" title="Share on Reddit" data-sharer="reddit" data-url="https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/"><i class="fab fa-reddit fa-fw"></i></a></span>
             </div>
         </div>
     </div>

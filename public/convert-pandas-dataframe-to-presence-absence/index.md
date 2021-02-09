@@ -1,4 +1,4 @@
-# Convert Pandas Dataframe to Presence Absence
+# Convert pandas Dataframe to presence-absence
 
 
 It's not uncommon in statistical analysis of sequence data to think in terms of presence-absence instead of quantity. In this quick little post, I walk through how to convert a pandas DataFrame of numerical values to one containing 1s and 0s representing presence/absence. I also show how to do this in R, for all you R people.
@@ -21,7 +21,7 @@ df[df > 0] <- 1
 
 And here it is in Python:
 
-```
+```python
 df[df > 0] = 1
 ```
 
@@ -42,7 +42,8 @@ df.iloc[0:,1:][df != 0] = 1
 Imagine that you had a dataset of gene counts (columns) for a number of species (rows) stored in a pandas DataFrame and wanted to convert to presence-absence. Here's how that might look:
 
 ```python
-df = pd.DataFrame({'Gene A':[3,10,0, 0,1], 'Gene B':[2,3,4,0,0], 'Gene C':[0,1,7,13,2]},index=['species_1', 'species_2', 'species_3', 'species_4', 'species_5'])
+df = pd.DataFrame({'Gene A':[3,10,0, 0,1], 'Gene B':[2,3,4,0,0], 'Gene C':[0,1,7,13,2]},
+                  index=['species_1', 'species_2', 'species_3', 'species_4', 'species_5'])
 
 >>>            Gene A  Gene B  Gene C
 species_1       3       2       0

@@ -1,5 +1,5 @@
 ---
-title: "Convert Pandas Dataframe to Presence Absence"
+title: "Convert pandas Dataframe to presence-absence"
 subtitle: "A quick way to convert a pandas DataFrame of numerical values to a presence/absence (1/0) table"
 date: 2021-02-08T17:39:18-07:00
 lastmod: 2021-02-08T17:39:18-07:00
@@ -45,7 +45,7 @@ df[df > 0] <- 1
 
 And here it is in Python:
 
-```
+```python
 df[df > 0] = 1
 ```
 
@@ -66,7 +66,8 @@ df.iloc[0:,1:][df != 0] = 1
 Imagine that you had a dataset of gene counts (columns) for a number of species (rows) stored in a pandas DataFrame and wanted to convert to presence-absence. Here's how that might look:
 
 ```python
-df = pd.DataFrame({'Gene A':[3,10,0, 0,1], 'Gene B':[2,3,4,0,0], 'Gene C':[0,1,7,13,2]},index=['species_1', 'species_2', 'species_3', 'species_4', 'species_5'])
+df = pd.DataFrame({'Gene A':[3,10,0, 0,1], 'Gene B':[2,3,4,0,0], 'Gene C':[0,1,7,13,2]},
+                  index=['species_1', 'species_2', 'species_3', 'species_4', 'species_5'])
 
 >>>            Gene A  Gene B  Gene C
 species_1       3       2       0
