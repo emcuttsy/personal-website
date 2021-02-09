@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>R - Tag - Elise Cutts</title>
-        <link>https://example.com/tags/r/</link>
+        <link>https://elisecutts.com/tags/r/</link>
         <description>R - Tag - Elise Cutts</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
-            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 02 Jun 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/tags/r/" rel="self" type="application/rss+xml" /><item>
-    <title>How to make this website</title>
-    <link>https://example.com/drafts/sticky-how-i-made-this-site/howto-site/</link>
-    <pubDate>Tue, 02 Jun 2020 00:00:00 &#43;0000</pubDate>
+            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 08 Feb 2021 17:39:18 -0700</lastBuildDate><atom:link href="https://elisecutts.com/tags/r/" rel="self" type="application/rss+xml" /><item>
+    <title>Convert Pandas Dataframe to Presence Absence</title>
+    <link>https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/</link>
+    <pubDate>Mon, 08 Feb 2021 17:39:18 -0700</pubDate>
     <author>Author</author>
-    <guid>https://example.com/drafts/sticky-how-i-made-this-site/howto-site/</guid>
-    <description><![CDATA[<p>After 3 years of dragging-and-dropping with <a href="https://www.wix.com/" target="_blank" rel="noopener noreffer">Wix</a>, this site is now powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer">Hugo</a>. Making my peace with needing a <em>bit</em> of code earned me a website I&rsquo;m much happier with and that costs a lot less to maintain.</p>]]></description>
+    <guid>https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/</guid>
+    <description><![CDATA[<p>It&rsquo;s not uncommon in statistical analysis of sequence data to think in terms of presence-absence instead of quantity. In this quick little post, I walk through how to convert a pandas DataFrame of numerical values to one containing 1s and 0s representing presence/absence. I also show how to do this in R, for all you R people.</p>]]></description>
 </item></channel>
 </rss>

@@ -1,29 +1,5 @@
----
-title: "Convert Pandas Dataframe to Presence Absence"
-subtitle: "A quick way to convert a pandas DataFrame of numerical values to a presence/absence (1/0) table"
-date: 2021-02-08T17:39:18-07:00
-lastmod: 2021-02-08T17:39:18-07:00
-draft: false
-author: ""
-authorLink: ""
-description: ""
+# Convert Pandas Dataframe to Presence Absence
 
-tags: [Python, R, bioinformatics]
-categories: [Code Drabbles, Bioinformatics]
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-toc:
-  enable: false
-math:
-  enable: false
-lightgallery: false
-license: ""
----
 
 It's not uncommon in statistical analysis of sequence data to think in terms of presence-absence instead of quantity. In this quick little post, I walk through how to convert a pandas DataFrame of numerical values to one containing 1s and 0s representing presence/absence. I also show how to do this in R, for all you R people.
 

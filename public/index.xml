@@ -4,9 +4,16 @@
         <link>https://elisecutts.com/</link>
         <description>Elise Cutts&#39; Personal Wesbite</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
-            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Jan 2021 21:37:36 -0700</lastBuildDate>
+            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 08 Feb 2021 17:39:18 -0700</lastBuildDate>
             <atom:link href="https://elisecutts.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Convert Pandas Dataframe to Presence Absence</title>
+    <link>https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/</link>
+    <pubDate>Mon, 08 Feb 2021 17:39:18 -0700</pubDate>
+    <author>Author</author>
+    <guid>https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/</guid>
+    <description><![CDATA[<p>It&rsquo;s not uncommon in statistical analysis of sequence data to think in terms of presence-absence instead of quantity. In this quick little post, I walk through how to convert a pandas DataFrame of numerical values to one containing 1s and 0s representing presence/absence. I also show how to do this in R, for all you R people.</p>]]></description>
+</item><item>
     <title>The origin of life debate has never been civil</title>
     <link>https://elisecutts.com/the-origin-of-life-debate-has-never-been-civil/</link>
     <pubDate>Thu, 14 Jan 2021 21:37:36 -0700</pubDate>
