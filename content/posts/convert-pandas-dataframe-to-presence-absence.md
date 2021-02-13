@@ -8,7 +8,7 @@ author: ""
 authorLink: ""
 description: ""
 
-tags: [Python, R, bioinformatics]
+tags: [python, R, bioinformatics]
 categories: [Code Drabbles, Bioinformatics]
 
 hiddenFromHomePage: false
