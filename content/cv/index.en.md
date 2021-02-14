@@ -25,7 +25,13 @@ comment:
 
 <!--more-->
 
-Download my CV [<a href="/CV.docx" download>Word</a>] [<a href="/CV.pdf" download>PDF</a>] 
+<br>
+
+Download my academic CV [<a href="/CV.docx" download>Word</a>] [<a href="/CV.pdf" download>PDF</a>] 
+
+Download my professional CV/resume [<a href="/A4SizeCV.pdf" download>A4 PDF</a>] [<a href="/LetterSizeResume.pdf" download>Letter PDF</a>]
+
+<br>
 
 
 ## Education
@@ -72,6 +78,7 @@ NASA Jet Propulsion Laboratory
 ## Publications
 
 ### Abstracts
+
 J. Miura, B. Ehlmann, R. Greenberger, **E. Cutts** (2020) [*Microimaging Infrared Spectroscopy for Characterization of Martian Meteorite Compositional Diversity.*](https://www.hou.usra.edu/meetings/lpsc2020/pdf/2969.pdf) LPSC LI, Abstract # 2969
 
 **E. Cutts**, B. Ehlmann, R. Greenberger, J. Beckett, E. Stolper (2018) [*Visible and Shortwave Infrared Spectroscopy of Martian Meteorites.*](https://www.hou.usra.edu/meetings/lpsc2018/pdf/2749.pdf) LPSC XLIV, Abstract # 2749
@@ -126,8 +133,9 @@ MITx, edX course [[certificate](https://courses.edx.org/certificates/9f61cd8cb81
 
 2020\. Data Analysis for the Life Sciences <br>
 HarvardX, edX professional certificate [in progress]
+
 * PH525.1x: Statistics and R [[certificate](https://courses.edx.org/certificates/869a3f5cd41f46a9962956020bc3b5e8)]
-* PH525.2x: Introduction to Linear Models and Matrix Algebra  [in progress]
+* PH525.2x: Introduction to Linear Models and Matrix Algebra  [[certificate](https://courses.edx.org/certificates/524d5d4891574f3d9ee4306eefcfcb32)]
 
 2020\. [Biophotonics](http://www.dambic.dk/index.php?page=BMB207) <br>
 University of Southern Denmark, 5 [ETCS](European_Credit_Transfer_and_Accumulation_System) PhD course (audited)
@@ -194,4 +202,13 @@ Co-Host
 2017\. ["Fear or Fun,"](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=38) *The Big T* Volume 96 "Beyond" <br>
 2017\. [“Firewall,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=22) *The Big T* Volume 96 "Beyond" <br>
 2017\. [“Music Theory,”](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=20) *The Big T* Volume 96 "Beyond" <br>
+
 2017. ["Science by Day, Music by Night,"](https://caltechcampuspubs.library.caltech.edu/3290/1/2016book.pdf#page=40) *The Big T* Volume 96 "Beyond" <br>
+
+### Languages
+
+English. Native
+
+German. B2 (intermediate)
+
+Danish. A1 (beginner)
