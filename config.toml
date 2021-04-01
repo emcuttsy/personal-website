@@ -250,7 +250,7 @@ enableEmoji = true
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    custom = ''
+    custom = '<a href ="/privacy">Cookie preferences and privacy</a>'
     # whether to show Hugo and theme info
     hugo = true
     # whether to show copyright info
