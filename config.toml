@@ -50,7 +50,7 @@ enableEmoji = true
         name = "Tags"
         url = "/tags/"
         title = ""
-        weight = 2
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "categories"
         pre = ""
@@ -58,7 +58,7 @@ enableEmoji = true
         name = "Categories"
         url = "/categories/"
         title = ""
-        weight = 3
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "cv"
         pre = ""
@@ -66,7 +66,7 @@ enableEmoji = true
         name = "CV"
         url = "/cv/"
         title = ""
-        weight = 5
+        weight = 2
       [[languages.en.menu.main]]
         identifier = "About"
         pre = ""
@@ -75,6 +75,14 @@ enableEmoji = true
         url = "/About/"
         title = ""
         weight = 4
+      [[languages.en.menu.main]]
+        identifier = "English Tutoring"
+        pre = ""
+        post = ""
+        name = "English Tutoring and Proofreading"
+        url = "/english/"
+        title = ""
+        weight = 3
     [languages.en.params]
       # site description
       description = "Elise Cutts' Personal Wesbite"
@@ -128,7 +136,7 @@ enableEmoji = true
           avatarURL = "./new-avatar.png"
           # title shown in home page (HTML format is supported)
           title = "Hi there, I'm Elise."
-          titlesub = "I'm a geobiology grad student at MIT who sometimes writes about geobiology, grad school, and other things you might expect. More often, I write nonsense for <a href='http://www.monoglotanxiety.com'>my language blog</a>. Thanks for visiting!"
+          titlesub = "Full-time geobiology PhD student at MIT, part-time language nerd. Currently studying microbial mats, <a href='http://monoglotanxiety.com'>learning German</a>, and providing affordable English tutoring and proofreading focused on STEM. <br>Thanks for visiting!"
 
           # subtitle shown in home page
           subtitle = ""
