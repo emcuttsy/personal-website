@@ -4,14 +4,7 @@
         <link>https://elisecutts.com/posts/</link>
         <description>All Posts | Elise Cutts</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
-            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 08 Feb 2021 17:39:18 -0700</lastBuildDate><atom:link href="https://elisecutts.com/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Convert pandas Dataframe to presence-absence</title>
-    <link>https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/</link>
-    <pubDate>Mon, 08 Feb 2021 17:39:18 -0700</pubDate>
-    <author>Author</author>
-    <guid>https://elisecutts.com/convert-pandas-dataframe-to-presence-absence/</guid>
-    <description><![CDATA[<p>It&rsquo;s not uncommon in statistical analysis of sequence data to think in terms of presence-absence instead of quantity. In this quick little post, I walk through how to convert a pandas DataFrame of numerical values to one containing 1s and 0s representing presence/absence. I also show how to do this in R, for all you R people.</p>]]></description>
-</item><item>
+            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Jan 2021 21:37:36 -0700</lastBuildDate><atom:link href="https://elisecutts.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>The origin of life debate has never been civil</title>
     <link>https://elisecutts.com/the-origin-of-life-debate-has-never-been-civil/</link>
     <pubDate>Thu, 14 Jan 2021 21:37:36 -0700</pubDate>
@@ -44,27 +37,5 @@
         </div>
     </div>
 <p>After finishing Duolingo German, I started making digital flashcards so that I&rsquo;d have something to keep my iThumbs occupied through corona lockdown better than scrolling through the reams of international and domestic horrors served up by my newsfeed. I ended up spending months of experimenting with Anki and looking into popular German vocabulary sets online, and <a href="https://ankiweb.net/shared/info/1877324510" target="_blank" rel="noopener noreffer">this 1000-word flashcard deck of core German vocabulary</a>  is the result.</p>]]></description>
-</item><item>
-    <title>I, extremophile</title>
-    <link>https://elisecutts.com/2020-09-16-i-extremophile/</link>
-    <pubDate>Wed, 16 Sep 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://elisecutts.com/2020-09-16-i-extremophile/</guid>
-    <description><![CDATA[<p>Something I&rsquo;ve thoroughly enjoyed in the first few weeks of taking a phylogenomics course is getting to think about non-microbial life for a change. The class will reorient its focus in a microbial direction here in the upcoming weeks, but thinking about familiar groups of macroscopic organisms to start makes it a lot easier to get a grip on fundamental concepts in phylogenomics and evolution.</p>]]></description>
-</item><item>
-    <title>Safe and sound and COVID-19 negative back in the US</title>
-    <link>https://elisecutts.com/2020-09-01-safe-and-sound-and-covid-19-negative/</link>
-    <pubDate>Tue, 01 Sep 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://elisecutts.com/2020-09-01-safe-and-sound-and-covid-19-negative/</guid>
-    <description><![CDATA[<p>Coming to Boston was definitely easier than going to Denmark this summer—at least there wasn&rsquo;t a risk of being turned away at the border—but it also wasn&rsquo;t exactly <em>easy</em>. Cancelled flights, state travel rules, booked-up COVID-19 test centers, and layer upon layer of MIT pandemic policy made it all a bit more complicated than I anticipated.</p>
-<p>And on top of all that, my mattress won&rsquo;t be here for another week! They said 3-5 days 14 days ago!</p>]]></description>
-</item><item>
-    <title>Review: MITx 6001.x Introduction to Computer Science and Programming using Python</title>
-    <link>https://elisecutts.com/2020-08-19-review-mitx-6001-x-introduction-to-computer-science-and-programming-using-python/</link>
-    <pubDate>Wed, 19 Aug 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://elisecutts.com/2020-08-19-review-mitx-6001-x-introduction-to-computer-science-and-programming-using-python/</guid>
-    <description><![CDATA[<p>I&rsquo;m going to go out on a limb here and guess that most scientists didn&rsquo;t decide to become reseachers because they dreamed of pouring hours into Matlab scripts and peering at liness of code on a computer screen.</p>]]></description>
 </item></channel>
 </rss>
