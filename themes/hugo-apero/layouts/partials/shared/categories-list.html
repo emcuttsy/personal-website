@@ -1,0 +1,3 @@
+{{ range site.Taxonomies.categories.ByCount }}
+    <a class="f7 nounderline dim ba ph2 pv1 mb2 dib mr1" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} ({{ .Count }})</a>
+{{ end }}

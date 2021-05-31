@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The California Tech on Elise Cutts</title>
+    <link>https://elisecutts.com/outlets/the-california-tech/</link>
+    <description>Recent content in The California Tech on Elise Cutts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Elise Cutts</copyright>
+    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/outlets/the-california-tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning to craft handmade scientific tools in the automated age</title>
+      <link>https://elisecutts.com/writing/californiatech-handmade-tools/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/californiatech-handmade-tools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

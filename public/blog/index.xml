@@ -1,71 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Elise Cutts</title>
-    <link>/blog/</link>
-    <description>Recent content in Blogs on Elise Cutts</description>
+    <title>Blog on Elise Cutts</title>
+    <link>https://elisecutts.com/blog/</link>
+    <description>Recent content in Blog on Elise Cutts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
-    <webMaster>me@elisecutts.com (Elise Cutts)</webMaster>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 06 Mar 2020 21:29:01 +0800</lastBuildDate>
-    
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Elise Cutts</copyright>
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme Documentation - Basics</title>
-      <link>/blog/theme-documentation-basics/</link>
-      <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
-      <author>me@elisecutts.com (Elise Cutts)</author>
-      <guid>/blog/theme-documentation-basics/</guid>
-      <description>&lt;p&gt;Discover what the Hugo - &lt;strong&gt;LoveIt&lt;/strong&gt; theme is all about and the core-concepts behind it.&lt;/p&gt;</description>
+      <title>The origin of life debate has never been civil</title>
+      <link>https://elisecutts.com/blog/2021-01-14-origins/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/blog/2021-01-14-origins/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Engraving of Félix Archimède Pouchet, a rival of Louis Pasteur&amp;rsquo;s in the origin of life debate&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The public origin of life debate sometimes feels like a parallel universe to the scientific one. And in many ways, it really is a parallel debate.—the big questions have almost nothing to do with one antoher and, more fundamentally, the battle raging beyond the ivory tower has more to do with faith than research. According to a 2019 Gallup poll, 40% of Americans believe that God created humans in their current form no more than about 10,000 years ago. And if that&amp;rsquo;s your view, it doesn&amp;rsquo;t much matter whether the person you&amp;rsquo;re debating thinks that life got started at a hydrothermal vent on the bottom of the ocean or in a warm little pond of primordial soup. That&amp;rsquo;s just not the point.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Theme Documentation - Content</title>
-      <link>/blog/theme-documentation-content/</link>
-      <pubDate>Thu, 05 Mar 2020 15:58:26 +0800</pubDate>
-      <author>me@elisecutts.com (Elise Cutts)</author>
-      <guid>/blog/theme-documentation-content/</guid>
-      <description>&lt;p&gt;Find out how to create and organize your content quickly and intuitively in &lt;strong&gt;LoveIt&lt;/strong&gt; theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Theme Documentation - Built-in Shortcodes</title>
-      <link>/blog/theme-documentation-built-in-shortcodes/</link>
-      <pubDate>Wed, 04 Mar 2020 16:29:41 +0800</pubDate>
-      <author>me@elisecutts.com (Elise Cutts)</author>
-      <guid>/blog/theme-documentation-built-in-shortcodes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Theme Documentation - Extended Shortcodes</title>
-      <link>/blog/theme-documentation-extended-shortcodes/</link>
-      <pubDate>Tue, 03 Mar 2020 16:29:41 +0800</pubDate>
-      <author>me@elisecutts.com (Elise Cutts)</author>
-      <guid>/blog/theme-documentation-extended-shortcodes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;LoveIt&lt;/strong&gt; theme provides multiple shortcodes on top of built-in ones in Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Basic Markdown Syntax</title>
-      <link>/blog/basic-markdown-syntax/</link>
-      <pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate>
-      <author>me@elisecutts.com (Elise Cutts)</author>
-      <guid>/blog/basic-markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>/blog/emoji-support/</link>
-      <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
-      <author>me@elisecutts.com (Elise Cutts)</author>
-      <guid>/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <title>Is there a truly light-independent ecosystem?</title>
+      <link>https://elisecutts.com/blog/2020-12-19-oxygen/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/blog/2020-12-19-oxygen/</guid>
+      <description>Oxygen is one of those things that nobody thinks about unless they either don&amp;rsquo;t have it or they&amp;rsquo;re a scientist. Either way, once you do start to think about oxygen, its usually not long until you start thinking there&amp;rsquo;s nothing more important in the universe.
+I&amp;rsquo;ve been thinking a lot about oxygen lately, and not because I&amp;rsquo;m suffocating. And naturally, I have become something of an oxygen conspiracy theorist. It&amp;rsquo;s everywhere!</description>
     </item>
     
   </channel>

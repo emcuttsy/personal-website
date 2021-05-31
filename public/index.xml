@@ -1,24 +1,218 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Elise Cutts</title>
-        <link>https://elisecutts.com/</link>
-        <description>Elise Cutts&#39; Personal Wesbite</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@elisecutts.com (Elise Cutts)</managingEditor>
-            <webMaster>me@elisecutts.com (Elise Cutts)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Jan 2021 21:37:36 -0700</lastBuildDate>
-            <atom:link href="https://elisecutts.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>The origin of life debate has never been civil</title>
-    <link>https://elisecutts.com/the-origin-of-life-debate-has-never-been-civil/</link>
-    <pubDate>Thu, 14 Jan 2021 21:37:36 -0700</pubDate>
-    <author>Author</author>
-    <guid>https://elisecutts.com/the-origin-of-life-debate-has-never-been-civil/</guid>
-    <description><![CDATA[<p>The public origin of life debate sometimes feels like a parallel universe to the scientific one. And in many ways, it really is a parallel debate.—the big questions have almost nothing to do with one antoher and, more fundamentally, the battle raging beyond the ivory tower has more to do with faith than research. According to a 2019 Gallup poll, 40% of Americans believe that God created humans in their current form no more than about 10,000 years ago. And if that&rsquo;s your view, it doesn&rsquo;t much matter whether the person you&rsquo;re debating thinks that life got started at a hydrothermal vent on the bottom of the ocean or in a warm little pond of primordial soup. That&rsquo;s just not the point.</p>]]></description>
-</item><item>
-    <title>Is there a truly light-independent ecosystem?</title>
-    <link>https://elisecutts.com/is-there-a-truly-light-independent-ecosystem/</link>
-    <pubDate>Sat, 19 Dec 2020 08:22:09 -0700</pubDate>
-    <author>Author</author>
-    <guid>https://elisecutts.com/is-there-a-truly-light-independent-ecosystem/</guid>
-    <description><![CDATA[<p>Oxygen is one of those things that nobody thinks about unless they either don&rsquo;t have it or they&rsquo;re a scientist. Either way, once you <em>do</em> start to think about oxygen, its usually not long until you start thinking there&rsquo;s nothing more important in the universe.</p>]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elise Cutts</title>
+    <link>https://elisecutts.com/</link>
+    <description>Recent content on Elise Cutts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Elise Cutts</copyright>
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marine archaea make oxygen in the dark using nitrite</title>
+      <link>https://elisecutts.com/writing/massive-archaea-oxygen/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/massive-archaea-oxygen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The origin of life debate has never been civil</title>
+      <link>https://elisecutts.com/blog/2021-01-14-origins/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/blog/2021-01-14-origins/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Engraving of Félix Archimède Pouchet, a rival of Louis Pasteur&amp;rsquo;s in the origin of life debate&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The public origin of life debate sometimes feels like a parallel universe to the scientific one. And in many ways, it really is a parallel debate.—the big questions have almost nothing to do with one antoher and, more fundamentally, the battle raging beyond the ivory tower has more to do with faith than research. According to a 2019 Gallup poll, 40% of Americans believe that God created humans in their current form no more than about 10,000 years ago. And if that&amp;rsquo;s your view, it doesn&amp;rsquo;t much matter whether the person you&amp;rsquo;re debating thinks that life got started at a hydrothermal vent on the bottom of the ocean or in a warm little pond of primordial soup. That&amp;rsquo;s just not the point.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Is there a truly light-independent ecosystem?</title>
+      <link>https://elisecutts.com/blog/2020-12-19-oxygen/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/blog/2020-12-19-oxygen/</guid>
+      <description>Oxygen is one of those things that nobody thinks about unless they either don&amp;rsquo;t have it or they&amp;rsquo;re a scientist. Either way, once you do start to think about oxygen, its usually not long until you start thinking there&amp;rsquo;s nothing more important in the universe.
+I&amp;rsquo;ve been thinking a lot about oxygen lately, and not because I&amp;rsquo;m suffocating. And naturally, I have become something of an oxygen conspiracy theorist. It&amp;rsquo;s everywhere!</description>
+    </item>
+    
+    <item>
+      <title>Newly discovered gas giant planet slingshots around its star</title>
+      <link>https://elisecutts.com/writing/caltechnews-planet-slingshot/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-planet-slingshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to craft handmade scientific tools in the automated age</title>
+      <link>https://elisecutts.com/writing/californiatech-handmade-tools/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/californiatech-handmade-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEMonstrators connect with local students</title>
+      <link>https://elisecutts.com/writing/caltechmag-stemonstrators/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechmag-stemonstrators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electron tomography database changes the game for scientific data distribution</title>
+      <link>https://elisecutts.com/writing/caltechnews-electron-tomography/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-electron-tomography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://elisecutts.com/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://elisecutts.com/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Famed Oceanographer Walter Munk Dead at 101</title>
+      <link>https://elisecutts.com/writing/caltechnews-walter-munk/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-walter-munk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frances Arnold wins 2019 Bower Award for Achievement in Science</title>
+      <link>https://elisecutts.com/writing/caltechnews-frances-arnold/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-frances-arnold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vilcek Foundation Prize awarded to Mikhail Shapiro</title>
+      <link>https://elisecutts.com/writing/caltechnews-vilcek-foundation/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-vilcek-foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q&amp;A: Creating a &#34;Virtual Seismologist&#34;</title>
+      <link>https://elisecutts.com/writing/caltechnews-virtual-seismologist/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-virtual-seismologist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cracking open a cold one with the flies</title>
+      <link>https://elisecutts.com/writing/caltechnews-flies/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-flies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From &#34;Tycho&#39;s Star&#34; to Shakespeare&#39;s Page</title>
+      <link>https://elisecutts.com/writing/caltechnews-tychos-star/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-tychos-star/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big T Volume 97: Discovery</title>
+      <link>https://elisecutts.com/writing/bigt-discovery/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/bigt-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mikhail Shapiro wins Roger Tsien Award for Excellence in Chemical Biology</title>
+      <link>https://elisecutts.com/writing/caltechnews-roger-tsien/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-roger-tsien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newly discovered gas giant planet slingshots around its star</title>
+      <link>https://elisecutts.com/writing/caltechnews-superfast-jet/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechnews-superfast-jet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imagining a living universe</title>
+      <link>https://elisecutts.com/writing/caltechletters-living-universe/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/caltechletters-living-universe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big T Volume 96: Beyond</title>
+      <link>https://elisecutts.com/writing/bigt-beyond/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/bigt-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://elisecutts.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/cv/</guid>
+      <description>Download my academic CV [Word] [PDF]
+Download my professional CV/resume [A4 PDF] [Letter PDF]
+Education     2020&amp;ndash;Pres. Massachussetts Institute of Technology (MIT) Department of Earth, Atmospheric and Planetary Sciences Ph.D. Geobiology [anticipated 2025], Adv. Tanja Bosak
+2019. California Institute of Technology (Caltech) B.S. Geobiology
+Fellowships, Grants, &amp;amp; Honors     Fellowships &amp;amp; Grants     2020&amp;ndash;2025. Graduate Research Fellowship, National Science Foundation MIT, Dept.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://elisecutts.com/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  </description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://elisecutts.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/privacy/</guid>
+      <description>a.cky-banner-element { padding: 8px 30px; background: #F8F9FA; color: #858A8F; border: 1px solid #DEE2E6; box-sizing: border-box; border-radius: 2px; cursor: pointer; }  Cookie Policy  Effective Date: 30-May-2021 Last Updated: 30-May-2021  What are cookies? This Cookie Policy explains what cookies are and how we use them, the types of cookies we use i.e, the information we collect using cookies and how that information is used, and how to manage the cookie settings.</description>
+    </item>
+    
+  </channel>
 </rss>

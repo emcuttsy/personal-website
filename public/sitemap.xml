@@ -1,21 +1,189 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>https://elisecutts.com/categories/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/categories/geobiology/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/tags/geobiology/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/tags/history-of-science/</loc><lastmod>2021-01-27T14:58:54-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/tags/origin-of-life/</loc><lastmod>2021-01-27T14:58:54-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/posts/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/categories/science-drabbles/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/tags/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/the-origin-of-life-debate-has-never-been-civil/</loc><lastmod>2021-01-27T14:58:54-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/is-there-a-truly-light-independent-ecosystem/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/tags/microbial-ecology/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/tags/photosynthesis/</loc><lastmod>2021-04-19T13:57:50&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/about/</loc><lastmod>2021-01-01T08:25:04-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/cv/</loc><lastmod>2021-02-13T22:46:12-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/privacy/</loc><lastmod>2021-04-01T12:01:22&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://elisecutts.com/categories/documentation/</loc><lastmod>2020-05-25T14:07:50-07:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://elisecutts.com/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/massive-archaea-oxygen/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/outlets/massive-science/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/outlets/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/categories/astrobiology/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/blog/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/categories/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/blog/2021-01-14-origins/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/blog/2020-12-19-oxygen/</loc>
+    <lastmod>2020-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/outlets/caltech-news/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-planet-slingshot/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/californiatech-handmade-tools/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/outlets/the-california-tech/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/outlets/caltech-magazine/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechmag-stemonstrators/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-electron-tomography/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/contact/</loc>
+    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/form/</loc>
+    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-walter-munk/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-frances-arnold/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-vilcek-foundation/</loc>
+    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-virtual-seismologist/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-flies/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-tychos-star/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/bigt-discovery/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/outlets/the-big-t/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-roger-tsien/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechnews-superfast-jet/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/outlets/caltech-letters/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/caltechletters-living-universe/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/writing/bigt-beyond/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://elisecutts.com/tags/</loc>
+  </url>
+  
+</urlset>
