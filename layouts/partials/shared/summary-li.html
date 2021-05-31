@@ -17,7 +17,7 @@
   {{ $number_featured := $page.Params.number_featured | default 2 }}
   {{ range first $number_featured .Pages.ByDate.Reverse }}
   <article class="pb1 pb2-ns">
-    <h4 class="f4 mt3 mb2 lh-title"><a href="{{ .RelPermalink }}" class="dim no-underline">{{ .Title }}</a></h4>
+    <h4 class="f4 mt3 mb2 lh-title"><a href="{{ with .Params.external }}{{ . }}"target="_blank" {{ else }}{{ .RelPermalink }}"{{ end }}  class="dim no-underline">{{ .Title }}</a></h4>
       <div class="flex flex-column flex-row-ns mb2 mb3-l items-center">
           <figure class="mr3 w-50 w-20-ns">
             <!--featured image for the branch bundle-->
@@ -40,7 +40,7 @@
         <div class="w-100 w-80-ns pl3-ns">
       {{ $summary := cond (ne .Params.excerpt nil) .Params.excerpt .Summary }}
       {{ with $summary }}<p class="measure lh-copy cf">{{ . | markdownify | emojify }}</p>{{ end }}
-          <a href="{{ .RelPermalink }}">Read more</a></p>
+          <a href="{{ with .Params.external }}{{ . }}"target="_blank" {{ else }}{{ .RelPermalink }}"{{ end }} >Read more</a></p>
         </div>
     </article>
   {{ end }} <!--end range across grouped pages-->
