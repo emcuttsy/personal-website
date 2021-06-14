@@ -15,10 +15,6 @@ link_list:
   url: https://orphanlab.caltech.edu/
 - name: Ehlmann Group, Caltech
   url: http://www.ehlmann.caltech.edu/
-- name: Office of Strategic Communications, Caltech
-  url: https://osc.caltech.edu/
-- name: Astrobiology and Ocean Worlds Group, NASA JPL
-  url: https://science.jpl.nasa.gov/division/planetary-science/astrobiology-and-ocean-worlds/
 ---
 
 ** index doesn't contain a body, just front matter above.
