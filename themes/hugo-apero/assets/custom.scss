@@ -1,1 +1,84 @@
-// Override this file to add your own SCSS styling.
+.search {
+  --border-radius: 10px;
+  --width: 12rem; // width of the full-length input box region
+  --height: 2rem;      
+  width: auto;
+  height: var(--height);
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--border-radius);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  input[type="search"] {
+    position: relative;
+    width: var(--height);
+    height: var(--height);
+    color: var(--text-color);
+    border: 0;
+    box-sizing: border-box;
+    outline: none;
+    transition: width .6s ease;
+    z-index: 10;
+    opacity: 0;
+    cursor: pointer;
+    &:focus {
+      z-index: 0;
+      opacity: 1;
+      width: var(--width);
+      ~ .symbol {
+        &::before {
+          width: 0%;
+        }
+        &:after {
+          clip-path: inset(0% 0% 0% 100%);
+          transition: clip-path .04s linear .105s;
+        }
+        .lens {
+          transform: translate(0, 0);
+          fill: var(--primary-color);
+          transition: top .5s ease .1s, left .5s ease .1s, fill .3s ease;
+        }
+      }
+    }
+  }
+  .symbol {
+    padding: 0.5rem;// distance between outside of expanding box and the container the symbol moves in
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &:before {
+      content:"";
+      position: absolute;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      background: var(--primary-color);
+      z-index: -1;
+      transition: width .6s ease;
+    }
+    &:after {
+      content:"";
+      position: absolute;
+      top: 0rem;
+      left: 0rem;
+      border-radius: 50%;
+      background: var(--primary-color);
+      z-index: 1;
+      clip-path: inset(0% 0% 0% 0%);
+      transition: clip-path .04s linear .225s;
+    }
+    .lens {
+      position: relative;
+      fill: #fff;
+      stroke: none;
+      left: 45%; // moves the distance from 
+      z-index: 2;
+      transition: top .3s ease, left .3s ease, fill .2s ease .2s;
+    }
+  }
+}

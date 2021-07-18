@@ -197,6 +197,9 @@ form {
   [type="email"] {
     @extend .input-reset, .pa3, .mt2, .mb3, .ba, .br0, .b--#{$borderColor}, .bg-transparent, .w-100 ;
   }
+  [type="search"]{
+    @extend .pa0, .ma0, .bg-transparent, .ba, .b--#{$borderColor};
+  }
   [type="button"],
   [type="reset"],
   [type="submit"] {
