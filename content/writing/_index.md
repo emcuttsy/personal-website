@@ -2,7 +2,7 @@
 title: Writing
 description: |
   
-  When I'm not in the lab, I'm often writing about science. I have words in *Massive Science*, *Caltech News*, *The California Tech*, *Caltech Magazine*, *The Big T*, and *Caltech Letters*, and am actively looking to freelance for more outlets.
+  When I'm not in the lab, I'm often writing about science. I have words in *Science News*, *Massive Science*, *Caltech News*, *The California Tech*, and more.
 
 author: "Elise Cutts"
 show_post_thumbnail: true*
