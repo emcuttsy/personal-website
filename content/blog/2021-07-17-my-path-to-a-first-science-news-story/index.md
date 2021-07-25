@@ -55,7 +55,7 @@ Eventually, I started putting some pitches together. I sent one to [Inverse](htt
 
 The single most important decision I made related to science writing was joining NASW. For students, it's only $20 to join and the value is fantastic. NASW offers networking opportunities, hosts an annual conference for science writers, and has lots of resources, fellowships, and other support for science writers at every stage of their careers. 
 
-After joining, I signed up for the Perlman Virtual Mentorship Program, a summer mentor-match program for student NASW members. I was paired with an amazing freelance science journalist who covers Earth and space science and bit of biology, and I started to work on a reporting project for the program that should run on the NASW Student Newsroom site in August. With my mentor's help, I also started to put together pitchess for *Science News* and *Eos*.
+After joining, I signed up for the Perlman Virtual Mentorship Program, a summer mentor-match program for student NASW members. I was paired with an amazing freelance science journalist who covers Earth and space science and bit of biology, and I started to work on a reporting project for the program that should run on the NASW Student Newsroom site in August. With my mentor's help, I also started to put together pitches for *Science News* and *Eos*.
 
 I can't understate how important finding a mentor was for me. Being able to ask my mentor questions was especially helpful for learning the subtler things in science journalism --- like how to email editors and sources, what pitches look like, how old research can be before it isn't not fresh anymore, where to look for interesting science stories, how much pay is reasonable, what publications like what kinds of stories, etc. etc. She read my emails to help me feel less scared the first time I sent them off, and she helped me revise stories once I got assignments.
 
@@ -63,7 +63,7 @@ If there's any chance you can find a mentor, take it. Join whatver programs you 
 
 ## With help from my mentor, I made my first successful pitch
 
-My mentor told me that a good way to find a science story is to pick a few journals (preferably obscure ones, staffers and pro freelancers will beat you to anything from Science or Nature) to follow and look for interesting papers as they came out. I did just that, and found a few papers I liked. I picked one to write about for the Perlman program project, and one to pitch directly to publications.
+My mentor told me that a good way to find a science story is to pick a few journals (preferably obscure ones, staffers and pro freelancers will beat you to anything from *Science* or *Nature*) to follow and look for interesting papers as they came out. I did just that, and found a few papers I liked. I picked one to write about for the Perlman program project, and one to pitch directly to publications.
 
 I wrote a pitch by basically copying what I saw on [TON's Pitch Database](https://www.theopennotebook.com/pitch-database/). I originally sent the pitch to an editor at *Eos*, but it was rejected. So my mentor suggested I send the pitch to *Science News* and she found an editor contact for me by asking around among her colleagues (trading editor contacts is apparently normal practice among journalists).
 
@@ -79,8 +79,8 @@ And that's that!
 
 Whew. That's probably more detail than anyone wanted or needed. But the point is to be transparent.
 
-I hope you got the sense that there wasn't any master plan here. There wasn't. Getting a mentor was the most important part for me, and I'd recommend finding someone to mentor you if you can. But if not, there's no magic to it. My editor at *Science News* didn't know my mentor, and she took my pitch based on what it said and the little portfolio I had, not because of backroom handshaking. If you build up a portfolio and write a good pitch (there's a whole [database](https://www.theopennotebook.com/pitch-database/) of examples), you can definitely get published.
+I hope you got the sense that there wasn't any master plan here. There wasn't. Getting a mentor was the most important part for me, and I'd recommend finding someone to mentor you if you can. But if not, there's no magic to it. My editor at *Science News* didn't know my mentor --- she took my pitch based on what it said and the little portfolio I had, not because of backroom handshaking. If you build up a portfolio and write a good pitch (there's a whole [database](https://www.theopennotebook.com/pitch-database/) of examples), you can definitely get published.
 
-You might get rejected, and that's fine. Pitch the story again somewhere else. I only pitched *Science News* after *Eos* rejected my first pitch. And pitch again to editors who don't take you the first time---*Eos* took me the second time.
+You might get rejected, and that's fine. Pitch the story again somewhere else. I only pitched *Science News* after *Eos* rejected my first pitch. And pitch again to editors who don't take your first pitch --- *Eos* took me the second time around.
 
 
