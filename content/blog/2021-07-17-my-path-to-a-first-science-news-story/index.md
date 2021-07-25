@@ -67,7 +67,7 @@ Kathy told me that a good way to find a science story is to pick a few journals 
 
 I wrote a pitch by basically copying what I saw on [TON's Pitch Database](https://www.theopennotebook.com/pitch-database/). I originally sent the pitch to an editor at *Eos*, but it was rejected because the paper I'd chosen is from an AGU journal and *Eos*, an AGU publication, leaves coverage of AGU journals to the comms department. So Kathy suggested I send the pitch to *Science News*, and found an editor contact for me by asking around among her colleagues. 
 
-It's generally best if you email an editor directly. Even if you email the wrong person (which I actually did end up doing with Science News!), editors can pass your emails along to the person who should really see them.
+It's generally best if you email an editor directly. Even if you email the wrong person (which I actually did end up doing with *Science News*!), editors can pass your emails along to the person who should really see them.
 
 To my great shock and giddy joy, Science News took the pitch. 
 
