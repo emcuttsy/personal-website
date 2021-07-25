@@ -1,7 +1,7 @@
 ---
 title: "How I got my first science journalism clip"
 subtitle: "There are many paths into science writing. Here's mine."
-excerpt: "There are many paths into science writing, and mine is just one. But given that there seem to be plenty of other academics out there curious about writing about science, I thought it might be helpful to walk through exactly how I placed my first real science story --- a 500-word piece for Science News with a project rate of $650."
+excerpt: "There are many paths into science writing, and mine is just one. But given that there seem to be plenty of other academics out there curious about writing about science, I thought it might be helpful to walk through exactly how I placed -- and got paid for -- my first real science story."
 date: 2021-07-17
 author: "Elise Cutts"
 draft: false
