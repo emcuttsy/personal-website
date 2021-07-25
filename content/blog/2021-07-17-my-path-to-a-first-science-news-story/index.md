@@ -36,7 +36,7 @@ Yes and no. You probably won't land a first gig writing for the NYT science sect
 
 I got my first clips writing for my university's press office as an intern, for student publications like the yearbook, school newspaper, and grad student science blogs, my personal blog, and most recently for [Massive Science](https://massivesci.com). Massive is somewhere between science communication and science journalism and is written mostly by scientist-scicommers. I wrote a handful of ~350 word[Lab Notes](https://massivesci.com/people/elise-cutts/) summarizing recent research articles in geology and microbiology. Lab Notes are quick and the editors don't expect you to have writing experience, so theyr'e a good place to start. 
 
-So, by the time I pitched Science News, I had plenty of non-journalism clips to show my editor. Things like this aren't fantastic portfolio pieces for science journalism, but they are far better than nothing. A scicomm-savvy friend tells me that having clips in more than one outlet likely helped, as well. 
+So, by the time I pitched *Science News*, I had plenty of non-journalism clips to show my editor. Things like that aren't fantastic portfolio pieces for science journalism, but they are far better than nothing. A scicomm-savvy friend tells me that having clips in more than one outlet likely helped, as well. 
 
 ## I read up on science writing and freelancing, joined Twitter, and sent off a few (rejected) pitches
 
