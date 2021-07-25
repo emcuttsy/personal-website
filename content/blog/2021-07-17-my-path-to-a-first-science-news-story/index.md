@@ -49,7 +49,7 @@ Twitter lead me to some amazing resources. I followed researcher and science jou
 Kim's tweets directed me to *Massive*, the [National Association of Science Writers](https://www.nasw.org) (NASW), the [NPR Scicommers](https://www.npr.org/2017/08/24/537735624/friends-of-joes-big-idea-fojbis) program, [The Open Notebook (TON)](https://www.theopennotebook.com), and more resources I just haven't had the chance to take advantage of yet. She also mentioned the names of other science writers and editors, who I followed and whose feeds continue to provide me with useful information. Somewhere between reading TON articles and searching for additional information elsewhere, I stumbled onto scientist-turned-journalist [Wudan Yan](https://twitter.com/wudanyan)'s writing and to her [podcast](https://www.thewriterscooppod.com), which has also been a great help.
 
 
-Eventually, I started putting some pitches together. I sent one to [Inverse](https://www.inverse.com/science), a publication I had found through a *Massive* editor I follow on Twitter, and one to [National Geographic](https://www.nationalgeographic.com/pages/article/how-to-write-for-nat-geo), just because. Both were rejected! But *Massive* kept taking my Lab Notes.
+Eventually, I started putting some pitches together. I sent one to *[Inverse](https://www.inverse.com/science)*, a publication I had found through a *Massive* editor I follow on Twitter, and one to *[National Geographic](https://www.nationalgeographic.com/pages/article/how-to-write-for-nat-geo)*, just because. Both were rejected! But *Massive* kept taking my Lab Notes.
 
 ## I joined NASW and found a mentor through the Perlman Virtual Mentorship Program
 
