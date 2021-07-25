@@ -30,7 +30,7 @@ I mention this because I want to be honest about my own path, not because I thin
 
 ## I built a portfolio of non-journalism clips
 
-First clips are a classic chicken-and-egg problem: you need clips to convince editors to pitch successsfully, but you can't pitch successfully without clips. Clearly, this is impossible.
+First clips are a classic chicken-and-egg problem: you need clips to convince editors to take your pitch, but you can't convince those editors to take your pitch without clips. Clearly, this is impossible.
 
 Yes and no. You probably won't land a first gig writing for the NYT science section without any clips (although I suppose anything is possible with an irresistable, well-crafted pitch). But you can definitely get published without experience, especially if you're willing to work for free -- although you should only need to do that at first, and probably not for as long as you think you'll have to. 
 
