@@ -69,7 +69,7 @@ I wrote a pitch by basically copying what I saw on [TON's Pitch Database](https:
 
 It's generally best if you email an editor directly. Even if you email the wrong person (which I actually did end up doing with *Science News*!), editors can pass your emails along to the person who should really see them.
 
-To my great shock and giddy joy, Science News took the pitch. 
+To my great shock and giddy joy, *Science News* took the pitch. 
 
 They offered me a rate I was happy with and a contract that wasn't exploitative, so I officially signed on to write the story. $650 for 500 words is better than I was expecting to start with, and Kathy says not to go below $0.75/word as a general rule. <u>*Even as a new freelancer, you shouldn't take exploitatively low pay or sign a ridiculous contract*</u>. Negotiate with editors if something's off --- I negotiated my second contract, and while I didn't get what I asked for, I didn't lose any standing with my editor, either. It's just business. If you're curious about the financial side of freelancing and what to look out for in contracts, I can't recommend Wudan Yan and Jenni Gritters' freelance business podcast,[The Writers Co-op](https://www.thewriterscooppod.com), enough.
 
