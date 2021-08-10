@@ -2,7 +2,7 @@
 title: Writing
 description: |
   
-  When I'm not in the lab, I'm often writing about science. I have words in *Science News*, *Massive Science*, *Caltech News*, *The California Tech*, and more.
+  When I'm not in the lab, I'm often writing about science. I have words in *Eos*, *Science News*, *Massive Science*, and more.
 
 author: "Elise Cutts"
 show_post_thumbnail: true*
