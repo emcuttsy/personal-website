@@ -2,7 +2,7 @@
 title: Writing
 description: |
   
-  When I'm not in the lab, I'm often writing about science. I have words in *Eos*, *Science News*, *Massive Science*, and more.
+  Beyond the lab bench, I am a freelance science journalist covering the Earth and life sciences with a soft spot for microbes. I have written for *Eos*, *Science News*, and more.
 
 author: "Elise Cutts"
 show_post_thumbnail: true*
