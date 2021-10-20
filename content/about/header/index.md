@@ -6,4 +6,4 @@ headline: |
   Hi, my name is Elise. Nice to meet you.
 ---
 <!-- this is a subheadline -->
-I'm a geobiology grad student studying microbe-mineral interractions at MIT and occasional science writer with words in *Eos*, *Science News*, *Massive Science*, and more.
+I'm a geobiology grad student studying microbe-mineral interractions at MIT and occasional science writer with words in *Scientific American*, *Eos*, *Science News*, and more.

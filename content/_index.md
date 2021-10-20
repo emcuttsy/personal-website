@@ -2,7 +2,7 @@
 title: "Elise Cutts"
 subtitle: PhD student @ MIT | Science writer
 description: " 
-I'm a geobiology graduate student in the Bosak Lab at MIT, where I study how bacterial exopolymers (i.e. slime) may have helped to preserve the Earth's oldest fossils. I am also a science writer with words in *Eos*, *Science News*, *Massive Science*, and more.
+I'm a geobiology graduate student in the Bosak Lab at MIT, where I study how bacterial exopolymers (i.e. slime) may have helped to preserve the Earth's oldest fossils. I am also a science writer with words in *Scientific American*, *Eos*, *Science News*, and more.
 "
 images:
   - /img/me_geologisthat.jpg
