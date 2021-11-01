@@ -4,7 +4,7 @@ subtitle: "And a reminder that the occasional stumble is an expected (and maybe 
 excerpt: "From forgetting to check house style on \"said\" vs \"says\" to not knowing what a TK or a banner quote was and almost pitching a story with a potential conflict of interest, I stumbled plenty in my first few months of science writing. Here are some simple things that tripped me up—and some assurance that it's okay (and maybe even expected) that you'll screw up a bit a the beginning."
 date: 2021-10-21
 author: "Elise Cutts"
-draft: false
+draft: true
 # layout options: single, single-sidebar
 layout: single-sidebar
 categories:
