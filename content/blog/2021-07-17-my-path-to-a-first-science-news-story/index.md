@@ -14,7 +14,7 @@ image_credit: Art of Writing, from Encyclopédie (Benoît-Louis Prévost, 1760),
 
 I suspect that there are plenty of other researchers out there who are at least toying with the idea that writing about science might be more fun than actually doing it. But how to start? 
 
-Breaking into science writing without media experience is intimidating, but it is possible. [My first reported science story](https://www.sciencenews.org/article/antarctica-microbes-habitability-aliens-extraterrestrial) ran this week in *Science News*, and seeing as the obligatory rounds of self-promotional texts have been sent and the celebratory tea poured, now feels like a good time to pause and reflect. This post walks through everything that went into getting my first pitch accepted, from my background to specififc resources and programs that helped me. 
+Breaking into science writing without media experience is intimidating, but it is possible. [My first reported science story](https://www.sciencenews.org/article/antarctica-microbes-habitability-aliens-extraterrestrial) ran this week in *Science News*, and seeing as the obligatory rounds of self-promotional texts have been sent and the celebratory tea poured, now feels like a good time to pause and reflect. This post walks through everything that went into getting my first pitch accepted, from my background to specific resources and programs that helped me. 
 
 There are many paths into science writing, and mine is just one. But I hope that seeing how getting a first pitch accepted *can* work in practice might inspire others thinking of taking the same leap. 
 
@@ -57,7 +57,7 @@ The single most important decision I made related to science writing was joining
 
 After joining, I signed up for the Perlman Virtual Mentorship Program, a summer mentor-match program for student NASW members. I was paired with an amazing freelance science journalist who covers Earth and space science and bit of biology, and I started to work on a reporting project for the program that should run on the NASW Student Newsroom site in August. With my mentor's help, I also started to put together pitches for *Science News* and *Eos*.
 
-I can't understate how important finding a mentor was for me. Being able to ask my mentor questions was especially helpful for learning the subtler things in science journalism --- like how to email editors and sources, what pitches look like, how old research can be before it's not fresh anymore, where to look for interesting science stories, how much pay is reasonable, what publications like what kinds of stories, etc. etc. She read my emails to help me feel less scared the first time I sent them off, and she helped me revise stories once I got assignments.
+I can't overstate how important finding a mentor was for me. Being able to ask my mentor questions was especially helpful for learning the subtler things in science journalism --- like how to email editors and sources, what pitches look like, how old research can be before it's not fresh anymore, where to look for interesting science stories, how much pay is reasonable, what publications like what kinds of stories, etc. etc. She read my emails to help me feel less scared the first time I sent them off, and she helped me revise stories once I got assignments.
 
 If there's any chance you can find a mentor, take it. Join whatver programs you can to get one. Just get one. It'll make all the difference.
 
