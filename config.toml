@@ -30,10 +30,10 @@ enableEmoji = true
 [params]
   orgName = "Elise Cutts"
   orgLocal = "Cambridge, MA USA"
-  description = "Graduate student and freelance science writer"
+  description = "Freelance science writer"
   favicon = "/img/icon.ico"
   logo = ""
-  mainSections = ["blog", "project", "talk", "writing"]
+  mainSections = ["blog", "writing"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -118,7 +118,7 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Writing"
-    title = "Published writing"
+    title = "Writing"
     url = "/writing/"
     weight = 3
   [[menu.header]]

@@ -1,11 +1,11 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Elise Cutts"
-role: "Geobiology grad student"
+role: "Science Journalist & Geobiologist"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "How to say my name" # leave blank to exclude
-link_list_label: "Places" # bookmarks, elsewhere, etc.
+link_list_label: "Past Labs" # bookmarks, elsewhere, etc.
 link_list:
 - name: Bosak Lab, MIT
   url: https://bosaklab.scripts.mit.edu/

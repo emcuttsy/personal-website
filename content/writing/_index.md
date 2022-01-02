@@ -2,7 +2,7 @@
 title: Writing
 description: |
   
-  Beyond the lab bench, I am a freelance science writer covering the Earth and life sciences with a soft spot for microbes. I have written for *Scientific American*, *Science*, *Eos*, *Science News*, and more.
+  I'm a freelance science writer covering biology and the geosciences. Got a news tip? Send it to me@elisecutts.com
 
 author: "Elise Cutts"
 show_post_thumbnail: true*

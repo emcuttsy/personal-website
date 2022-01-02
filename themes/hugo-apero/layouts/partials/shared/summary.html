@@ -28,7 +28,7 @@
     </figure>
     <div class="flex flex-column w-100 w-60-ns {{ if $root.Params.thumbnail_left }}pr3-ns{{ else }}pl3-ns{{ end }}">
       <header class="w-100">
-        Hi
+        
         <h1 class="f3 mv2 lh-title underline"><a href="{{ with .Params.external }}{{ . }}"target="_blank" {{ else }}{{ .RelPermalink }}"{{ end }} class="db">{{ .Title | markdownify }}</a></h1>
         <!---
         <h1 class="f3 mv2 lh-title underline"><a href="{{ .RelPermalink }}" class="db">{{ .Title | markdownify }}</a></h1>
