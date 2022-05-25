@@ -1,7 +1,7 @@
 ---
 title: Contact
 name: Contact Me
-description: "You can get in touch with me either by using this form or sending an email to me@elisecutts.com. I look forward to hearing from you!"
+description: "News tip? Send it to tips@elisecutts.com Otherwise, you can get in touch with me either by using this form or sending an email to me@elisecutts.com. I look forward to hearing from you!"
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact

@@ -1,7 +1,7 @@
 ---
 title: "Elise Cutts"
-subtitle: Masters Student @ MIT | Science writer
-description: "I'm a freelance science journalist covering the Earth and life sciences and geomicrobiologist with a soft spot for microbes. Words in *Science*,  *Scientific American*, *Eos*, *Science News*, and more.
+subtitle: AAAS Mass Media Fellow @ Voice of America
+description: "Used to do science, now I write about it. Soft spots include rocks, microbes, and really old stuff. Currently remote for *Voice of America* from Portland, OR as a 2022 AAAS Mass Media Fellow.
 "
 images:
   - /img/me_geologisthat.jpg

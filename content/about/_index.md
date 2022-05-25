@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  Geobiology graduate student and freelance science writer
+  Science Writer
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
