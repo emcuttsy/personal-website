@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Elise Cutts</copyright>
-    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rising Salinity Threatens Rice Crop on Southeast Asia&#39;s Sinking Coastline (Feature)</title>
+      <link>https://elisecutts.com/writing/voa-salinity-web/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/voa-salinity-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rising Salinity Threatens Rice Crop on Southeast Asia&#39;s Sinking Coastline (TV)</title>
+      <link>https://elisecutts.com/writing/voa-salinity-tv/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/voa-salinity-tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Century-Old TB Vaccine Boosts Babies&#39; Front-Line Immune Defenses</title>
+      <link>https://elisecutts.com/writing/voa-tb-vaccine/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/voa-tb-vaccine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is a ‘Vaccine-Derived’ Poliovirus?</title>
+      <link>https://elisecutts.com/writing/voa-oral-polio/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/voa-oral-polio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milk Use and Lactose Tolerance Didn’t Develop Hand in Hand in Europe</title>
+      <link>https://elisecutts.com/writing/voa-lactose-evolution/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/voa-lactose-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invasive Reptiles, Amphibians Cost World $17 Billion</title>
+      <link>https://elisecutts.com/writing/voa-invasive-herps/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/voa-invasive-herps/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Why Are Heat Waves Becoming So Common in Europe?</title>
       <link>https://elisecutts.com/writing/voa-europe-heatwaves/</link>
@@ -233,7 +287,7 @@ Breaking into science writing without media experience is intimidating, but it i
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://elisecutts.com/blog/2021-01-14-origins/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Engraving of Félix Archimède Pouchet, a rival of Louis Pasteur&amp;rsquo;s in the origin of life debate&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Engraving of Félix Archimède Pouchet, a rival of Louis Pasteur&amp;amp;rsquo;s in the origin of life debate&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The public origin of life debate sometimes feels like a parallel universe to the scientific one. And in many ways, it really is a parallel debate.—the big questions have almost nothing to do with one antoher and, more fundamentally, the battle raging beyond the ivory tower has more to do with faith than research. According to a 2019 Gallup poll, 40% of Americans believe that God created humans in their current form no more than about 10,000 years ago. And if that&amp;rsquo;s your view, it doesn&amp;rsquo;t much matter whether the person you&amp;rsquo;re debating thinks that life got started at a hydrothermal vent on the bottom of the ocean or in a warm little pond of primordial soup. That&amp;rsquo;s just not the point.&lt;/p&gt;</description>
     </item>
     
@@ -427,9 +481,10 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <guid>https://elisecutts.com/cv/</guid>
       <description>Download my academic CV [Word] [PDF]
 Download my professional CV/resume [A4 PDF] [Letter PDF]
-Education     2020&amp;ndash;Pres. Massachussetts Institute of Technology (MIT) Department of Earth, Atmospheric and Planetary Sciences Ph.D. Geobiology [anticipated 2025], Adv. Tanja Bosak
+Education 2020&amp;ndash;Pres. Massachussetts Institute of Technology (MIT) Department of Earth, Atmospheric and Planetary Sciences Ph.D. Geobiology [anticipated 2025], Adv. Tanja Bosak
 2019. California Institute of Technology (Caltech) B.S. Geobiology
-Fellowships, Grants, &amp;amp; Honors     Fellowships &amp;amp; Grants     2020&amp;ndash;2025. Graduate Research Fellowship, National Science Foundation MIT, Dept.</description>
+Fellowships, Grants, &amp;amp; Honors Fellowships &amp;amp; Grants 2020&amp;ndash;2025. Graduate Research Fellowship, National Science Foundation MIT, Dept. of Earth, Atmospheric and Planetary Sciences
+2020&amp;ndash;2021. Ida M. Green Fellowship, MIT MIT, Dept.</description>
     </item>
     
     <item>
@@ -438,8 +493,7 @@ Fellowships, Grants, &amp;amp; Honors     Fellowships &amp;amp; Grants     2020&
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elisecutts.com/license/</guid>
-      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
-  </description>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     
     <item>
@@ -448,7 +502,8 @@ Fellowships, Grants, &amp;amp; Honors     Fellowships &amp;amp; Grants     2020&
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elisecutts.com/privacy/</guid>
-      <description>a.cky-banner-element { padding: 8px 30px; background: #F8F9FA; color: #858A8F; border: 1px solid #DEE2E6; box-sizing: border-box; border-radius: 2px; cursor: pointer; }  Cookie Policy  Effective Date: 30-May-2021 Last Updated: 30-May-2021  What are cookies? This Cookie Policy explains what cookies are and how we use them, the types of cookies we use i.e, the information we collect using cookies and how that information is used, and how to manage the cookie settings.</description>
+      <description>Cookie Policy Effective Date: 30-May-2021 Last Updated: 30-May-2021 What are cookies? This Cookie Policy explains what cookies are and how we use them, the types of cookies we use i.e, the information we collect using cookies and how that information is used, and how to manage the cookie settings.
+Cookies are small text files that are used to store small pieces of information. They are stored on your device when the website is loaded on your browser.</description>
     </item>
     
   </channel>
