@@ -1,7 +1,7 @@
 ---
 title: "Elise Cutts"
 subtitle: AAAS Mass Media Fellow @ Voice of America
-description: "Used to do science, now I write about it. Soft spots include rocks, microbes, and really old stuff. Currently remote for *Voice of America* from Portland, OR as a 2022 AAAS Mass Media Fellow.
+description: "Used to do science, now I write about it. Soft spots include rocks, microbes, and really old stuff. 2022 AAAS Mass Media Fellow. Based in Graz, Austria.
 "
 images:
   - /img/me_geologisthat.jpg

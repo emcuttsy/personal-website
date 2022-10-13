@@ -9,7 +9,7 @@ intro: |
 
   I'm a science journalist covering the Earth and life sciences and have written for *Scientific American*, *Voice of America*, *Science*, AGU's *Eos*, *Science News*, and more. 
   
-  I used to think I wanted to do research, and I'm just now wrapping up my Master's degree in geobiology at MIT. Before that, spent at Fulbright at the University of Southern Denmark and studied geobiology at Caltech. My research background is a tangled knot of biology, planetary science, and geology, and I love writing stories about all three.
+  My background is in academic research, and I just wrapped up my Master's degree in Earth science at MIT. Bfore that, spent at Fulbright at the University of Southern Denmark and studied geobiology at Caltech. My research background is a tangled knot of biology, planetary science, and geology, and I love writing stories about all three.
   
   When I'm not hunting down researcher emails or re-re-re-writing a lede, I'm probably either getting lost in some forest, adding to my too-tall stack of German flashcards, or overthinking a tweet.
 
