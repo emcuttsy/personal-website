@@ -1,8 +1,7 @@
 ---
-title: Writing
+title: Recent Stories
 description: |
-  
-  I'm a science writer covering biology and the geosciences. Got a news tip? Send it to tips@elisecutts.com
+
 
 author: "Elise Cutts"
 show_post_thumbnail: true*

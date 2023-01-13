@@ -6,4 +6,4 @@ headline: |
   Hi, my name is Elise. Nice to meet you.
 ---
 <!-- this is a subheadline -->
-I'm a science journalist and former geomicrobiologist based in Graz, Austria. Bylines in *Scientific American*, *Voice of America*, *Science*, *Eos*, *Science News*, and more. 2022 AAAS Mass Media Fellow at *Voice of America*.
+I'm a science journalist and former geomicrobiologist based in Graz, Austria with bylines in *Scientific American*, *Voice of America*, *Science*, *Eos*, *Science News*, and more. 
