@@ -2,7 +2,6 @@
 title: Recent Stories
 description: |
 
-
 author: "Elise Cutts"
 show_post_thumbnail: true*
 thumbnail_left: true # for list-sidebar only
