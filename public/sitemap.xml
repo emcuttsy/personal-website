@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elisecutts.com/writing/skyandtel-tiny-binary/</loc>
-    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://elisecutts.com/</loc>
-    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://elisecutts.com/outlets/</loc>
-    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://elisecutts.com/writing/</loc>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elisecutts.com/outlets/science-news/</loc>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elisecutts.com/writing/sciencenews-echidna-bubbles/</loc>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elisecutts.com/writing/skyandtel-tiny-binary/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://elisecutts.com/outlets/sky-and-telescope/</loc>
@@ -42,9 +48,6 @@
     <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://elisecutts.com/writing/sciencenews-polymyxins-petrify-bacteria/</loc>
-    <lastmod>2022-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://elisecutts.com/outlets/science-news/</loc>
     <lastmod>2022-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://elisecutts.com/writing/skyandtel-shields-up-mdwarf/</loc>
