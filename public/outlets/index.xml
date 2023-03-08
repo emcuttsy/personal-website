@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Elise Cutts</copyright>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/outlets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/outlets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eos</title>
+      <link>https://elisecutts.com/outlets/eos/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/outlets/eos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sky and Telescope</title>
+      <link>https://elisecutts.com/outlets/sky-and-telescope/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/outlets/sky-and-telescope/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Science News</title>
       <link>https://elisecutts.com/outlets/science-news/</link>
@@ -18,29 +36,11 @@
     </item>
     
     <item>
-      <title>Sky and Telescope</title>
-      <link>https://elisecutts.com/outlets/sky-and-telescope/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/outlets/sky-and-telescope/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Astronomy</title>
       <link>https://elisecutts.com/outlets/astronomy/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://elisecutts.com/outlets/astronomy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eos</title>
-      <link>https://elisecutts.com/outlets/eos/</link>
-      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/outlets/eos/</guid>
       <description></description>
     </item>
     
