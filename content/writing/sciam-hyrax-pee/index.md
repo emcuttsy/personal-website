@@ -8,6 +8,7 @@ author: "Elise Cutts"
 draft: false
 tags:
 categories:
+- Feature
 outlets:
 - Scientific American
 # layout options: single, single-sidebar

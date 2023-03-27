@@ -8,7 +8,7 @@ author: "Elise Cutts"
 draft: false
 tags:
 categories:
-- Features and Columns
+- Feature
 outlets:
 - Discover
 # layout options: single, single-sidebar

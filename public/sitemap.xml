@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://elisecutts.com/categories/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://elisecutts.com/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elisecutts.com/categories/feature/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://elisecutts.com/outlets/</loc>
@@ -35,13 +41,7 @@
     <loc>https://elisecutts.com/outlets/science-news/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecutts.com/categories/</loc>
-    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://elisecutts.com/outlets/discover/</loc>
-    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://elisecutts.com/categories/features-and-columns/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://elisecutts.com/writing/discover-alh84001-nasa/</loc>

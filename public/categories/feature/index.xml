@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature on Elise Cutts</title>
+    <link>https://elisecutts.com/categories/feature/</link>
+    <description>Recent content in Feature on Elise Cutts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Elise Cutts</copyright>
+    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/categories/feature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stone Age Animal Urine Could Solve a Mystery about Technological Development</title>
+      <link>https://elisecutts.com/writing/sciam-hyrax-pee/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/sciam-hyrax-pee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Life Found on an Old Rock</title>
+      <link>https://elisecutts.com/writing/discover-alh84001-nasa/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/discover-alh84001-nasa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
