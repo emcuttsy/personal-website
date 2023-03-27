@@ -1,7 +1,7 @@
 ---
 title: "Elise Cutts"
-subtitle: AAAS Mass Media Fellow @ Voice of America
-description: "Used to do science, now I write about it. Soft spots include rocks, microbes, and really old stuff. 2022 AAAS Mass Media Fellow. Based in Graz, Austria.
+subtitle: Freelance science journalist
+description: "Ex-scientist writing about space, planets, life, and language for *Scientific American*, *Discover*, *Science News*, *Sky and Telescope*, and whoever else I can convince to let me write stuff. 2022 AAAS Mass Media Fellow. Based in Graz, Austria.
 "
 images:
   - /img/me_geologisthat.jpg

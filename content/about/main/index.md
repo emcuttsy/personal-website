@@ -7,7 +7,7 @@ number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
 
-  I'm a science journalist covering the Earth and life sciences and have written for *Scientific American*, *Voice of America*, *Science*, AGU's *Eos*, *Science News*, and more. 
+  I'm a science journalist covering the Earth and life sciences and have written for *Scientific American*, *Discover*, *Science News*, *Sky and Telescope*, *Science*, AGU's *Eos*, and more. 
   
   My background is in academic research, and I just wrapped up my Master's degree in Earth science at MIT. Bfore that, spent at Fulbright at the University of Southern Denmark and studied geobiology at Caltech. My research background is a tangled knot of biology, planetary science, and geology, and I love writing stories about all three.
   
