@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Elise Cutts</copyright>
-    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/outlets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/outlets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scientific American</title>
+      <link>https://elisecutts.com/outlets/scientific-american/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/outlets/scientific-american/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Eos</title>
       <link>https://elisecutts.com/outlets/eos/</link>
@@ -23,15 +32,6 @@
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://elisecutts.com/outlets/science-news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scientific American</title>
-      <link>https://elisecutts.com/outlets/scientific-american/</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/outlets/scientific-american/</guid>
       <description></description>
     </item>
     
