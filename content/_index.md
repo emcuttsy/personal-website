@@ -1,8 +1,8 @@
 ---
-title: "Elise Cutts"
-subtitle: Freelance science journalist
-description: "Ex-scientist writing about space, planets, life, and language for *Scientific American*, *Discover*, *Science News*, *Sky and Telescope*, and whoever else I can convince to let me write stuff. 2022 AAAS Mass Media Fellow. Based in Graz, Austria.
-"
+title: "Hi there, I'm Elise."
+subtitle: Freelance Science Writer | Graz, Austria
+description: "I write stories about about physics, geoscience, and language research in Europe and beyond from my home in Graz, Austria."
+
 images:
   - /img/me_geologisthat.jpg
 image_left: true

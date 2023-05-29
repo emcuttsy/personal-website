@@ -6,6 +6,7 @@ excerpt: "How a humble meteorite redefined the future of astrobiology."
 date: 2023-02-23
 author: "Elise Cutts"
 draft: false
+featured: true
 tags:
 categories:
 - Feature

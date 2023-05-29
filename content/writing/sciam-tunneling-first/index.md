@@ -8,6 +8,8 @@ author: "Elise Cutts"
 draft: false
 tags:
 categories:
+- Physics
+featured: true
 outlets:
 - Scientific American
 # layout options: single, single-sidebar

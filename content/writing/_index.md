@@ -1,6 +1,6 @@
 ---
-title: Recent Stories
-description: |
+title: Science Writing
+description: "Recent Stories"
 
 author: "Elise Cutts"
 show_post_thumbnail: true*

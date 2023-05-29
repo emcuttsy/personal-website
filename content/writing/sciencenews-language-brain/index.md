@@ -7,7 +7,9 @@ date: 2023-03-30
 author: "Elise Cutts"
 draft: false
 tags:
+featured: true
 categories:
+- Language
 outlets:
 - Science News
 # layout options: single, single-sidebar

@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Freelance science writer"
   favicon = "/img/icon.ico"
   logo = ""
-  mainSections = ["blog", "writing"]
+  mainSections = ["writing"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
