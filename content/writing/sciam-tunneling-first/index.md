@@ -9,7 +9,7 @@ draft: false
 tags:
 categories:
 - Physics
-featured: true
+featured: false
 outlets:
 - Scientific American
 # layout options: single, single-sidebar

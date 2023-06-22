@@ -6,4 +6,5 @@ headline: |
   Hello! *Servus!*
 ---
 <!-- this is a subheadline -->
-I'm Elise, a US-American science journalist living in Graz, Austria. I write about geoscience, physics and language for magazines like *Scientific American*, *Eos*, and *Science News* with a focus on research in Europe.
+I'm Elise, a US-American science journalist living in Graz, Austria. I write stories about physics, space, and geoscience research for magazines like *Quanta*, *National Geographic*, *Scientific American*, and *Science News* with a special focus on Austria its geographical neighborhood.
+
