@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Elise Cutts</copyright>
-    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/outlets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/outlets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Science News</title>
+      <link>https://elisecutts.com/outlets/science-news/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/outlets/science-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eos</title>
+      <link>https://elisecutts.com/outlets/eos/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/outlets/eos/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Quanta</title>
       <link>https://elisecutts.com/outlets/quanta/</link>
@@ -32,24 +50,6 @@
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://elisecutts.com/outlets/national-geographic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eos</title>
-      <link>https://elisecutts.com/outlets/eos/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/outlets/eos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science News</title>
-      <link>https://elisecutts.com/outlets/science-news/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/outlets/science-news/</guid>
       <description></description>
     </item>
     

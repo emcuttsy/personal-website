@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Elise Cutts</copyright>
-    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>https://elisecutts.com/categories/news/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>https://elisecutts.com/categories/physics/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space</title>
+      <link>https://elisecutts.com/categories/space/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoscience</title>
+      <link>https://elisecutts.com/categories/geoscience/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/geoscience/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Feature</title>
       <link>https://elisecutts.com/categories/feature/</link>
@@ -27,20 +63,20 @@
     </item>
     
     <item>
-      <title>Physics</title>
-      <link>https://elisecutts.com/categories/physics/</link>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Biology</title>
+      <link>https://elisecutts.com/categories/biology/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://elisecutts.com/categories/physics/</guid>
+      <guid>https://elisecutts.com/categories/biology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Geoscience</title>
-      <link>https://elisecutts.com/categories/geoscience/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Paleontology &amp; Archaeology</title>
+      <link>https://elisecutts.com/categories/paleontology-archaeology/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://elisecutts.com/categories/geoscience/</guid>
+      <guid>https://elisecutts.com/categories/paleontology-archaeology/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Elise Cutts</title>
+    <link>https://elisecutts.com/categories/news/</link>
+    <description>Recent content in News on Elise Cutts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Elise Cutts</copyright>
+    <lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A rain of electrons causes Mercury’s X-ray auroras</title>
+      <link>https://elisecutts.com/writing/sciencenews-mercury-rain/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/sciencenews-mercury-rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mysterious Case of Ireland’s Missing Earthquakes</title>
+      <link>https://elisecutts.com/writing/eos-wildfire-ozone-copy/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/eos-wildfire-ozone-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>‘Thunder beast’ fossils show how some mammals might have gotten big</title>
+      <link>https://elisecutts.com/writing/sciencenews-thunder-beasts/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/sciencenews-thunder-beasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wildfire Smoke Destroys Ozone</title>
+      <link>https://elisecutts.com/writing/eos-wildfire-ozone/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/eos-wildfire-ozone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
