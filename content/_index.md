@@ -1,7 +1,7 @@
 ---
 title: "Hi there, I'm Elise."
 subtitle: Freelance Science Writer | Graz, Austria
-description: "I write stories about about physics, geoscience, and language research in central Europe and beyond. My work has appeared in *Quanta*, *National Geographic*, *Scientific American*, *Science News*, and more."
+description: "I write about geoscience, physics, and other fascinating science happening in central Europe and beyond. My work has appeared in *Quanta*, *National Geographic*, *Scientific American*, *Science News*, and more."
 
 images:
   - /img/me_geologisthat.jpg
