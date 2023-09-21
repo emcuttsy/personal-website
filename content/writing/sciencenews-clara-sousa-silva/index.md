@@ -6,6 +6,7 @@ excerpt: "The quantum astrochemist's work offers clues to what distant objects a
 date: 2023-09-19
 author: "Elise Cutts"
 draft: false
+featured: true
 tags: 
 categories: 
 - Profile

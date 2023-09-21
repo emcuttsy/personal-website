@@ -14,6 +14,6 @@ outlets:
 - Knowable
 # layout options: single, single-sidebar
 layout: single
-featured: true
+featured: false
 ---
 

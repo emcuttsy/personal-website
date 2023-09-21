@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Elise Cutts</copyright>
-    <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Physics</title>
+      <link>https://elisecutts.com/categories/physics/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://elisecutts.com/categories/profile/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space</title>
+      <link>https://elisecutts.com/categories/space/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://elisecutts.com/categories/news/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/news/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Biology</title>
       <link>https://elisecutts.com/categories/biology/</link>
@@ -18,38 +54,11 @@
     </item>
     
     <item>
-      <title>News</title>
-      <link>https://elisecutts.com/categories/news/</link>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/categories/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Feature</title>
       <link>https://elisecutts.com/categories/feature/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://elisecutts.com/categories/feature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Space</title>
-      <link>https://elisecutts.com/categories/space/</link>
-      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/categories/space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physics</title>
-      <link>https://elisecutts.com/categories/physics/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/categories/physics/</guid>
       <description></description>
     </item>
     

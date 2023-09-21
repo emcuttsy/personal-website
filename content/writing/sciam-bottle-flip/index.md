@@ -14,6 +14,6 @@ outlets:
 - Scientific American
 # layout options: single, single-sidebar
 layout: single
-featured: true
+featured: false
 ---
 
