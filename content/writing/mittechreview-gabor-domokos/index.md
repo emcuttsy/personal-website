@@ -11,7 +11,7 @@ featured: true
 categories: 
 - Profile
 - Feature
-- Mathematics
+- Math
 - Physics
 outlets:
 - MIT Tech Review
