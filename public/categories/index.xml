@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Elise Cutts</copyright>
-    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>https://elisecutts.com/categories/news/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>https://elisecutts.com/categories/physics/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space</title>
+      <link>https://elisecutts.com/categories/space/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/categories/space/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Geoscience</title>
       <link>https://elisecutts.com/categories/geoscience/</link>
@@ -18,38 +45,11 @@
     </item>
     
     <item>
-      <title>Space</title>
-      <link>https://elisecutts.com/categories/space/</link>
-      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/categories/space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://elisecutts.com/categories/news/</link>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/categories/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Earth science</title>
       <link>https://elisecutts.com/categories/earth-science/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://elisecutts.com/categories/earth-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physics</title>
-      <link>https://elisecutts.com/categories/physics/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elisecutts.com/categories/physics/</guid>
       <description></description>
     </item>
     
