@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIT Tech Review on Elise Cutts</title>
+    <link>https://elisecutts.com/outlets/mit-tech-review/</link>
+    <description>Recent content in MIT Tech Review on Elise Cutts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Elise Cutts</copyright>
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecutts.com/outlets/mit-tech-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This mathematician is making sense of nature’s complexity</title>
+      <link>https://elisecutts.com/writing/mittechreview-gabor-domokos/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisecutts.com/writing/mittechreview-gabor-domokos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
